@@ -7,7 +7,7 @@ weight=1
 
 ## (with A.A. Long) [The Hellenistic Philosophers](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521275563)
 (Cambridge 1987); vol. 1, xv + 512 pp.; vol. 2, xi + 512 pp. (German edition, tr. K. Hülser, Stuttgart 2000; French edition, tr. J. Brunschwig and P. Pellegrin,Paris, 2001); Hungarian edition, tr. L. Bene et al., 2015
-![The Hellenistic Philosophers](/LS.gif)
+![The Hellenistic Philosophers](LS.gif)
 
 ## Lucretius and the Transformation of Greek Wisdom
 (Cambridge 1998)

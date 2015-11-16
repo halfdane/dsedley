@@ -1,7 +1,10 @@
 +++
-draft = true
 frontpage = true
 +++
+
+{{< email >}}
+    
+![David Neil Sedley](Swavesey.jpg)
 
 # Personal details
 
