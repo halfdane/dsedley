@@ -2,11 +2,19 @@ branches:
   only:
     - master
 env:
+  global:
+  - secure: yeOQtJceFV1fQ1Tbo/8Qp6GQXtH9+u3+9yEg+mtAM4cUwt6U2fKye70GlIRyDaB36DFXbGH10+3ES+/ZeJge3uWsSBL4e6h6Lip/vXd2XWROiGTdU/FzM0sJ2dYlPkHvozFgIsbBPkRwmj1cl0WYO6m0tGbVqScy6yhgfXjqBAw=
   matrix:
   - GOPATH=$TRAVIS_BUILD_DIR/gosrc
 install:
 - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
 - mkdir -p "$TRAVIS_BUILD_DIR/static"
 - go get -v github.com/spf13/hugo
-
 script: ./build.sh
+after_success:
+- cd public
+- git init
+- git remote add upstream "https://${GH_TOKEN}@github.com/halfdane/halfdane.github.io"
+- git add .
+- git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
+- git push --force --quiet $FULL_REPO master:gh-pages
