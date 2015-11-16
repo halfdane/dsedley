@@ -1,35 +1,21 @@
 ---
 draft: true
-title: "Symbols"
-menu: "_Other_"
-weight: 2
+title: "Working with this website"
+menu: "Website"
+weight: 1
 ---
 
-## Greek Letters
+Adjusting the content on this site is not so difficult, but it requires a bit of setup. I will guide you through the different setup steps without much explanation, because it is only required once and really not so interesting.
 
-|Letter|Name|
-|:-----|:---|
-|Α α|alpha, άλφα|
-|Β β|beta, βήτα|
-|Γ γ|gamma, γάμμα|
-|Δ δ|delta, δέλτα|
-|Ε ε|epsilon, έψιλον|
-|Ζ ζ|zeta, ζήτα|
-|Η η|eta, ήτα|
-|Θ θ|theta, θήτα|
-|Ι ι|iota, ιώτα|
-|Κ κ|kappa, κάππα|
-|Λ λ|lambda, λάμδα|
-|Μ μ|mu, μυ|
-|Ν ν|nu, νυ|
-|Ξ ξ|xi, ξι|
-|Ο ο|omicron, όμικρον|
-|Π π|pi, πι|
-|Ρ ρ|rho, ρώ|
-|Σ σ/ς[8]|sigma, σίγμα|
-|Τ τ|tau, ταυ|
-|Υ υ|upsilon, ύψιλον|
-|Φ φ|phi, φι|
-|Χ χ|chi, χι|
-|Ψ ψ|psi, ψι|
-|Ω ω|omega, ωμέγα|
+## Create an SSH-Key
+If you do not have an SSH-Key (or don't know what that is), you need one. Follow the steps in [this article](https://www.drupal.org/node/1070130) to create your private SSH-Key.
+
+## Send me the public part of your key
+The same article explains how to get the public key to your clipboard, so you can simply paste it into an Email that you send to me. This is a common procedure and since you keep the private part of your key for yourself, there is no security issue here.
+
+I will then use your key to grant you access to the "playground" I've prepared here.
+
+## Get a proper editor
+No offense, but most people type in MS-Word and that is really not helpful here. So head over to https://atom.io/ to download and install the Atom Editor.
+
+## Setup the Atom Editor
