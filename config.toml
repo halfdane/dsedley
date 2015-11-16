@@ -1,4 +1,4 @@
-baseurl = "http://halfdane.github.io/dsedley-poc/"
+baseurl = "http://halfdane.github.io/dsedley/"
 languageCode = "en-us"
 theme = "hyde"
 uglyURLs = true
