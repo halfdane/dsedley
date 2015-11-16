@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+<body class="{{ .Site.Params.themeColor }}">
+
+{{ partial "sidebar.html" . }}
+
+    <div class="content container">
+<div class="posts">
+    {{ range .Data.Pages }}
+        {{ if .Params.frontpage }}
+            <div class="post">
+                {{ if .Title }}
+                    <h1 class="post-title">
+                    <a href="{{ .Permalink }}">
+                        {{ .Title }}
+                    </a>
+                    </h1>
+                {{end}}
+                {{ .Content }}
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+
+
+
+</div>
+
+  </body>
+</html>
