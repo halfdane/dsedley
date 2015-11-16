@@ -1,0 +1,11 @@
+baseurl = "http://halfdane.github.io/dsedley-poc/"
+languageCode = "en-us"
+title = "David Sedley"
+
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0a"
+  description = "Human behavior flows from three main sources: desire, emotion, and knowledge."
+  email = "dns1@cam.ac.uk"
+  front = "first.md"
