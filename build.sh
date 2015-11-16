@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/bash -e
 
-hugo server --buildDrafts --watch
+$GOPATH/bin/hugo --buildDrafts

@@ -1,5 +1,12 @@
 branches:
   only:
     - master
+env:
+  matrix:
+  - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+install:
+- mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
+- mkdir -p "$TRAVIS_BUILD_DIR/static"
+- go get -v github.com/spf13/hugo
 
-script: hugo --buildDrafts
+script: ./build.sh
