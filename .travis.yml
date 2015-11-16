@@ -14,7 +14,7 @@ script: ./build.sh
 after_success:
 - cd public
 - git init
-- git remote add upstream "https://${GH_TOKEN}@github.com/halfdane/halfdane.github.io"
+- git remote add upstream "https://${GH_TOKEN}@github.com/halfdane/dsedley.git"
 - git add .
 - git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
 - git push --force --quiet $FULL_REPO master:gh-pages
