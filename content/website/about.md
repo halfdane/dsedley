@@ -8,4 +8,4 @@ weight: 2
 - The sources can be found on [https://github.com/halfdane/dsedley](github).
 - The build runs on [travis-ci](https://travis-ci.org/halfdane/dsedley)
 
-Build status: ![build status](https://travis-ci.org/halfdane/dsedley.svg)
+[![Build Status](https://travis-ci.org/halfdane/dsedley.png)](https://travis-ci.org/halfdane/dsedley)

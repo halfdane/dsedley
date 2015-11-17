@@ -1,5 +1,5 @@
 ---
-title: "Starting"
+title: "Startingo"
 menu: "Website"
 weight: 1
 ---
