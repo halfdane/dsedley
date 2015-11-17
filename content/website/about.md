@@ -1,5 +1,5 @@
 ---
-title: "About this website"
+title: "About"
 menu: "Website"
 weight: 2
 ---

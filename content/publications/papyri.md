@@ -1,9 +1,9 @@
-+++
-draft = true
-title = "Editions of papyri"
-menu = "Publications"
-weight = 2
-+++
+---
+draft: true
+title: "Editions of papyri"
+menu: "Publications"
+weight: 2
+---
 
 ## ‘Epicurus, On nature, Book XXVIII’
 Cronache Ercolanesi 3 (1973), 5-83

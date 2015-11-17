@@ -1,5 +1,5 @@
 ---
-title: "Working with this website"
+title: "Starting"
 menu: "Website"
 weight: 1
 ---
@@ -18,3 +18,6 @@ I will then use your key to grant you access to the "playground" I've prepared h
 No offense, but most people type in MS-Word and that is really not helpful here. So head over to https://atom.io/ to download and install the Atom Editor.
 
 ## Setup the Atom Editor
+- Install plugin `import`
+- Install plugin `git-plus`
+- Import repository `git@github.com:halfdane/dsedley.git`
