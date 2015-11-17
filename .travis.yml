@@ -20,4 +20,4 @@ after_success:
 - git config user.email "travis@example.com"
 - git config user.name "Travis ci"
 - git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
-- git push --force --quiet $FULL_REPO master:gh-pages
+- git push --force origin master:gh-pages
