@@ -2,7 +2,7 @@
 draft: true
 title: "Symbols"
 menu: "_Other_"
-weight: 2
+weight: 3
 ---
 
 ## Greek Letters
