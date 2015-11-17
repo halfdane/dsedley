@@ -4,20 +4,21 @@ branches:
     - master
 env:
   global:
-  - secure: yeOQtJceFV1fQ1Tbo/8Qp6GQXtH9+u3+9yEg+mtAM4cUwt6U2fKye70GlIRyDaB36DFXbGH10+3ES+/ZeJge3uWsSBL4e6h6Lip/vXd2XWROiGTdU/FzM0sJ2dYlPkHvozFgIsbBPkRwmj1cl0WYO6m0tGbVqScy6yhgfXjqBAw=
+    - GH_REF: github.com/halfdane/dsedley.git
+    - secure: CLF69bPceKFb/Xts4X5i+oY928Ov31cE3+IUlZkqLo8PDDowvvyJW0SsO5Wc7OoHd12YRZnarQY11pHYVJGUJv58w9JZYBy/9LXmVz+oiPKlcg51xg0Ry7cP40fD2WV9Tg2irDlz/ZnfDtqbQ6JgBkWWPDdNz4PE/FOVh1lAcd6x8dpcvgJwNQfTJWthHL1QTgaH2RJMCflGUwbBS2f4QLmI5v7FrIiVHCdKy+c3vLT0xbaum2jGlCKmLXrwBWf7+qq+PpY9X0xYg4xpc5ryzYjTr9920hfU7eJSueOceVLw1QUlNhtt2ZyrWJrWqdgmO5r3H4Te93uEADkWNDZvu9XQIHQfgpdrq866rnUslvSqe2U6xBlkKxVD9Qk4Kb0pQ1Z5FTGDXvQmwtvfRxBDUivJlSqgXJ3sHwufTLU9kh37RFkpKF020PXKboFZlqEN4DTX3t5l6RluZU2ZyGEOq0xDFFpaOXi5GeNLX9KACTe8qZr6jCxX76zJ+Y+KJMzamihXIFvI2WMyN/C9lmZlnZAVqwyB8K2O+fPXUKTdaPoHFd2pP8kB9e9Qmow212Y7Qo9wom7MN0BHsed9pAOVyc+j0XodK1rzqQ8JO26BNFy0cJayayEABn1zTMbX2MgcOlyjbfPPvxncxRKaNeX1zRYdDr6RQ/i71o7QHLPqInc=
   matrix:
-  - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+    - GOPATH=$TRAVIS_BUILD_DIR/gosrc
 install:
-- mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
-- mkdir -p "$TRAVIS_BUILD_DIR/static"
-- go get -v github.com/spf13/hugo
+  - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
+  - mkdir -p "$TRAVIS_BUILD_DIR/static"
+  - go get -v github.com/spf13/hugo
 script: ./build.sh
 after_success:
-- cd public
-- ls
-- git init
-- git config user.email "travis@example.com"
-- git config user.name "Travis ci"
-- git add .
-- git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
-- git push --force "https://${GH_TOKEN}@github.com/halfdane/dsedley.git" master:gh-pages
+  - cd public
+  - ls
+  - git init
+  - git config user.email "travis@example.com"
+  - git config user.name "Travis ci"
+  - git add .
+  - git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
+  - git push --force "https://${GH_TOKEN}@github.com/halfdane/dsedley.git" master:gh-pages
