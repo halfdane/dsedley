@@ -15,9 +15,8 @@ after_success:
 - cd public
 - ls
 - git init
-- git remote add upstream "https://${GH_TOKEN}@github.com/halfdane/dsedley.git"
-- git add .
 - git config user.email "travis@example.com"
 - git config user.name "Travis ci"
+- git add .
 - git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
-- git push --force origin master:gh-pages
+- git push --force "https://${GH_TOKEN}@github.com/halfdane/dsedley.git" master:gh-pages
