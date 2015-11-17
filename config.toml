@@ -8,4 +8,5 @@ title = "David Sedley"
 
 [params]
   themeColor = "theme-base-0a"
+  description = ""
   email = "dns1@cam.ac.uk"
