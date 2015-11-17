@@ -12,7 +12,10 @@ install:
   - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
   - mkdir -p "$TRAVIS_BUILD_DIR/static"
   - go get -v github.com/spf13/hugo
-script: ./build.sh
+cache:
+  directories:
+  - ${GOPATH}
+script: ${GOPATH}/bin/hugo --buildDrafts
 after_success:
   - cd public
   - ls
