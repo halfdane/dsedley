@@ -1,11 +1,8 @@
-+++
-title = "_index"
-frontpage = true
-+++
+---
+title: "_index"
+---
 
-{{< email >}}
-
-![David Neil Sedley](Swavesey.jpg)
+{{< img src="Swavesey.jpg" title="David Neil Sedley" >}}
 
 # Personal details
 

@@ -2,14 +2,12 @@ baseurl = "http://halfdane.github.io/dsedley/"
 languageCode = "en-us"
 # theme = "hyde"
 theme = "bootie-docs"
-uglyURLs = true
 
 title = "David Sedley"
 
-
 [params]
   themeColor = "theme-base-0a"
-  description = "The quick brown fox jumps over the lazy dog"
+  description = ""
   email = "dns1@cam.ac.uk"
 
 
