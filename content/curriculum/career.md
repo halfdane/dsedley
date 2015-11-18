@@ -1,9 +1,10 @@
-+++
-draft = true
-title = "Career"
-menu = "Curriculum Vitae"
-weight = 2
-+++
+---
+title: "Career"
+menu:
+  main:
+    parent: 'Curriculum Vitae'
+    weight: 20
+---
 
 ## Sept. 1972 - July 1973:
 teaching part-time in Classics Department of University College London, and part-time at William Ellis School, London NW5

@@ -1,9 +1,10 @@
-+++
-draft = true
-title = "Higher education"
-menu = "Curriculum Vitae"
-weight = 1
-+++
+---
+title: "Higher education"
+menu:
+  main:
+    parent: 'Curriculum Vitae'
+    weight: 10
+---
 
 ## Oct. 1965-June 1969:
 - read Literae Humaniores at Trinity College, Oxford

@@ -1,7 +1,9 @@
 ---
-title: "Startingo"
-menu: "Website"
-weight: 1
+title: "Starting"
+menu:
+  main:
+    parent: 'Website'
+    weight: 20
 ---
 
 Adjusting the content on this site is not so difficult, but it requires a bit of setup. I will guide you through the different setup steps without much explanation, because it is only required once and really not so interesting.

@@ -1,9 +1,10 @@
-+++
-draft = true
-title = "Honours"
-menu = "Curriculum Vitae"
-weight = 3
-+++
+---
+title: "Honours"
+menu:
+  main:
+    parent: 'Curriculum Vitae'
+    weight: 30
+---
 
 ## July 1994 - :
 Fellow of the British Academy

@@ -1,8 +1,10 @@
 ---
 draft: true
 title: "Symbols"
-menu: "_Other_"
-weight: 2
+menu:
+  main:
+    parent: 'Other'
+    weight: 20
 ---
 
 ## Greek Letters

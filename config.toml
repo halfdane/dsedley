@@ -10,3 +10,13 @@ title = "David Sedley"
   themeColor = "theme-base-0a"
   description = "nothing here"
   email = "dns1@cam.ac.uk"
+
+[[menu.main]]
+    name = "Publications"
+    weight = 10
+[[menu.main]]
+    name = "Website"
+    weight = 1000
+[[menu.main]]
+    name = "Other"
+    weight = 100

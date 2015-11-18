@@ -1,9 +1,12 @@
-+++
-draft = true
-title = "Articles and chapters"
-menu = "Publications"
-weight = 3
-+++
+---
+draft: true
+title: "Articles and chapters"
+
+menu:
+  main:
+    parent: 'Publications'
+    weight: 30
+---
 
 ## ‘The structure of Epicurus’ On nature’
 Cronache Ercolanesi 4 (1974), 89-92

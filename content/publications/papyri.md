@@ -1,8 +1,10 @@
 ---
 draft: true
 title: "Editions of papyri"
-menu: "Publications"
-weight: 2
+menu:
+  main:
+    parent: 'Publications'
+    weight: 20
 ---
 
 ## ‘Epicurus, On nature, Book XXVIII’

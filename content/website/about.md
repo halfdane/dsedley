@@ -1,7 +1,9 @@
 ---
 title: "About"
-menu: "Website"
-weight: 2
+menu:
+  main:
+    parent: 'Website'
+    weight: 20
 ---
 
 - The site is built using the static site generator [hugo](http://gohugo.io/).

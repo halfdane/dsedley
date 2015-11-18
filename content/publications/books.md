@@ -1,9 +1,11 @@
-+++
-draft = true
-title = "Books"
-menu = "Publications"
-weight=1
-+++
+---
+title: "Books"
+
+menu:
+  main:
+    parent: 'Publications'
+    weight: 10
+---
 
 ## (with A.A. Long) [The Hellenistic Philosophers](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521275563)
 (Cambridge 1987); vol. 1, xv + 512 pp.; vol. 2, xi + 512 pp. (German edition, tr. K. Hülser, Stuttgart 2000; French edition, tr. J. Brunschwig and P. Pellegrin,Paris, 2001); Hungarian edition, tr. L. Bene et al., 2015
