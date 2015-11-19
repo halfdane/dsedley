@@ -1,9 +1,9 @@
 ---
 title: "Honours"
+weight: 30
 menu:
   main:
     parent: 'Curriculum Vitae'
-    weight: 30
 ---
 
 ## July 1994 - :

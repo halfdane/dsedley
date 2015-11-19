@@ -1,9 +1,9 @@
 ---
 title: "Higher education"
+weight: 10
 menu:
   main:
     parent: 'Curriculum Vitae'
-    weight: 10
 ---
 
 ## Oct. 1965-June 1969:

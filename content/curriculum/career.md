@@ -1,9 +1,9 @@
 ---
 title: "Career"
+weight: 20
 menu:
   main:
     parent: 'Curriculum Vitae'
-    weight: 20
 ---
 
 ## Sept. 1972 - July 1973:

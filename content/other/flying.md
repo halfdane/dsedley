@@ -1,10 +1,9 @@
 ---
-draft: true
 title: "Flying"
+weight: 10
 menu:
   main:
     parent: 'Other'
-    weight: 10
 ---
 
 I would love to hear ({{< email >}}) from any other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.

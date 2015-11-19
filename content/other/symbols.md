@@ -1,10 +1,10 @@
 ---
 draft: true
+weight: 20
 title: "Symbols"
 menu:
   main:
     parent: 'Other'
-    weight: 20
 ---
 
 ## Greek Letters

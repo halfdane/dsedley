@@ -1,11 +1,9 @@
 ---
-draft: true
 title: "Articles and chapters"
-
+weight: 30
 menu:
   main:
     parent: 'Publications'
-    weight: 30
 ---
 
 ## ‘The structure of Epicurus’ On nature’
