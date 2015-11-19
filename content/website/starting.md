@@ -25,6 +25,7 @@ In most Editors (and in Atom as well) the keyboard-shortcut for the command to s
 which means you hold the `Cmd`-key and press the `S`-key.
 
 Just to drive this point home:
+
 - `Hold` means: pressing a key on the keyboard and keep it pressed
 - `Press` means: typing a key, i.e. press it down and let it go.
 
