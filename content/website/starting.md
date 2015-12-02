@@ -65,4 +65,4 @@ Okay, that was admittedly quite a lot.
 The good thing is, you only need to do this once (for every computer you want to use to change the site), and it's not necessary to understand in detail what happened.
 
 Now your environment is prepared and you can start to experiment.
-Next time I'll explain how to do that and how to bring your changes to the internet.
+Next time I'll explain how to do that and how to bring your changes to the internet..
