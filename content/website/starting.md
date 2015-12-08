@@ -66,3 +66,6 @@ The good thing is, you only need to do this once (for every computer you want to
 
 Now your environment is prepared and you can start to experiment.
 Next time I'll explain how to do that and how to bring your changes to the internet.
+
+## Alternative steps 
+Editing the files directly in the browser might be even simpler. 
