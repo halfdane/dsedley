@@ -17,7 +17,8 @@ Fortunately the source code is hosted at GitHub which supports this kind of coll
 
 ## Change content
 - Go to https://github.com/halfdane/dsedley/blob/master/content/frontpage.md
-- Click the edit-button and change something in the page (but please don't touch the stuff at the top between the --- )
+- Click the edit-button: ![edit file button](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+- Change something in the page (but please don't touch the stuff at the top between the --- )
 - Click the green "Commit changes" button - you can add a commit message in the fields above, but that's not necessary
 - Wait a minute or two while your changes are used to generate the HTML
 - Check http://halfdane.github.io/dsedley/ for your changes
