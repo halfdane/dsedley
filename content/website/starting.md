@@ -26,11 +26,9 @@ Fortunately the source code is hosted at GitHub which supports this kind of coll
 The official documentation to editing content online is here: https://help.github.com/articles/editing-files-in-your-repository/
 
 ## Further exploration
-All content of the playground is under https://github.com/halfdane/dsedley/tree/master/content
-
-I organized the files like they are in the menu on http://halfdane.github.io/dsedley and the files and directories resemble loosely the entries in the menu.
-
+- All content of the playground is under https://github.com/halfdane/dsedley/tree/master/content
+- I organized the files like they are in the menu on http://halfdane.github.io/dsedley and the files and directories resemble loosely the entries in the menu.
 So to adjust the higher education of your curriculum, which is in the menu in "Curriculum Vitae"->"Higher Education", open the `curriculum` directory, click the file `education.md` and make the changes as described above. 
-
-Have a look around in the files and directories. Since all changes are recorded by GitHub, it is always possible to go back to an older version. It helps to have meaningful commit messages, but it is possible without.
+- Have a look around in the files and directories and make some changes. Since all changes are recorded by GitHub, it is always possible to go back to an older version. It helps to have meaningful commit messages, but it is possible without.
+- All `.md`-files are interpreted as Markdown which is then translated to HTML. To find out what you can do in Markdown, have a look at https://daringfireball.net/projects/markdown/basics
 
