@@ -28,7 +28,7 @@ paperback edition, September 2003
 (Oxford, May 2004; paperback edn. Sept. 2006)
 
 
-### Italian translation, La levatrice del platonismo
+### Italian translation of the above, La levatrice del platonismo
 (Milan, 2011)
 
 
@@ -37,19 +37,20 @@ Sather Classical Lectures 66
 (Berkeley and Los Angeles, 2007)
 
 
-### Italian translation, Creazionismo. Il dibattito antico da Anassagora a Galeno
+### Italian translation of the above, Creazionismo. Il dibattito antico da Anassagora a Galeno
 (Rome, 2011)
 
 
-###  Pyrrhonists, Patricians, Platonizers. Hellenistic Philosophy in the Period 155-86 BC
-(ed., with A.M. Ioppolo) 
+###  (ed., with A.M. Ioppolo) Pyrrhonists, Patricians, Platonizers. Hellenistic Philosophy in the Period 155-86 BC
+ 
 (Naples, 2007)
-Ancient Models of Mind: Studies in Human and Divine Rationality
-(ed., with Andrea Nightingale) volume of essays in honour of A.A. Long; Cambridge, 2010)
+
+### (ed., with Andrea Nightingale) Ancient Models of Mind: Studies in Human and Divine Rationality
+volume of essays in honour of A.A. Long; Cambridge, 2010)
 
 
-### Plato: Meno and Phaedo
-(with Alex Long) translation with introduction and notes; Cambridge, 2010)
+### (with Alex Long) Plato: Meno and Phaedo
+translation with introduction and notes; Cambridge, 2010)
 
-###The Philosophy of Antiochus
+### (editor) The Philosophy of Antiochus
 editor (Cambridge, 2012)
