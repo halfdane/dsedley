@@ -49,5 +49,6 @@ Sather Classical Lectures 66
 
 ### (with Alex Long) Plato: Meno and Phaedo
 (translation with introduction and notes; Cambridge, 2010)
-The Philosophy of Antiochus
+
+###The Philosophy of Antiochus
 editor (Cambridge, 2012)
