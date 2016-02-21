@@ -1,5 +1,5 @@
 ---
-title: "Flying"
+title: "Rara avis (infrequent flyer)"
 weight: 10
 menu:
   main:
