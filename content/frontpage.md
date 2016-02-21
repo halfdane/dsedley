@@ -16,10 +16,8 @@ London, 30 May 1947
 married (1973) with three children and eight grandchildren
 
 ## Work address:
-
 Christ's College, Cambridge CB2 3BU, UK
 - 
-
 ## Telephone
 direct line: 01223 334910
 
