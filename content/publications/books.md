@@ -41,14 +41,15 @@ Sather Classical Lectures 66
 (Rome, 2011)
 
 
-### (ed., with A.M. Ioppolo) Pyrrhonists, Patricians, Platonizers. Hellenistic Philosophy in the Period 155-86 BC
+###  Pyrrhonists, Patricians, Platonizers. Hellenistic Philosophy in the Period 155-86 BC
+(ed., with A.M. Ioppolo) 
 (Naples, 2007)
-(ed., with Andrea Nightingale) Ancient Models of Mind: Studies in Human and Divine Rationality
-(volume of essays in honour of A.A. Long; Cambridge, 2010)
+Ancient Models of Mind: Studies in Human and Divine Rationality
+(ed., with Andrea Nightingale) volume of essays in honour of A.A. Long; Cambridge, 2010)
 
 
-### (with Alex Long) Plato: Meno and Phaedo
-(translation with introduction and notes; Cambridge, 2010)
+### Plato: Meno and Phaedo
+(with Alex Long) translation with introduction and notes; Cambridge, 2010)
 
 ###The Philosophy of Antiochus
 editor (Cambridge, 2012)
