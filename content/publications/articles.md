@@ -305,7 +305,7 @@ in T. Bénatouïl and M. Bonazzi (eds.) Theoria, Praxis, and the Contemplative L
 ## ‘Marcus Aurelius on physics’
 in M. Van Ackeren (ed.) A Companion to Marcus Aurelius (Oxford 2012), 396-407
 
-## ‘Antiochus as historian of Philosophy’
+## ‘Antiochus as historian of philosophy’
 in D. Sedley (ed.) The Philosophy of Antiochus (Cambridge 2012), 80-103
 
 ## ‘Aristotle on place’
@@ -342,7 +342,7 @@ in B. Collette and S. Delcomminette (eds.), Unité et origine des vertus dans la
 Materiali e Discussioni 72 (2014), 217-41
 
 ## ‘Diogenes Laertius on the ten Pyrrhonist modes’
-in K.M. Vogt (ed.), Pyrrhonian Skepticism in Diogenes Laertius (Tübingen 2015), 171-85
+in K.M. Vogt (ed.), Pyrrhonian Skepticism in Diogenes Laertius ("Sapere", Tübingen 2015), 171-85
 
 ## ‘Varieties of definition’
 in D. Ebrey (ed.), Theory and Practice in Aristotle’s Natural Philosophy (Cambridge 2015)
