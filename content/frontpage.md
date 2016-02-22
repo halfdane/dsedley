@@ -13,7 +13,7 @@ David Neil Sedley
 London, 30 May 1947
 
 ### Family Status:
-[married](./bev/Bev_Sedley) (1973) [with three children and eight grandchildren](./kids/)
+[married](./bev_sedley/) (1973) [with three children and eight grandchildren](./kids/)
 
 
 ### Work address:
