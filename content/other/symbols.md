@@ -1,6 +1,6 @@
 ---
 draft: true
-weight: 20
+weight: 100
 title: "Symbols"
 menu:
   main:
