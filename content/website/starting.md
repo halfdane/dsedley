@@ -3,7 +3,7 @@ title: "Starting"
 menu:
   main:
     parent: 'Website'
-    weight: 20
+weight: 20
 ---
 
 The easiest way to change to content of this site might be to edit it online.
