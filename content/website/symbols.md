@@ -1,19 +1,15 @@
 ---
-draft: true
 weight: 100
 title: "Symbols"
 menu:
   main:
-    parent: 'Other'
+    parent: 'Website'
 ---
 
-## Greek Letters
+All these symbols can be input directly without reverting to awkward HTML-Entities like `&Theta;`: `Θ`
 
-All these symbols can be input directly without reverting to awkward HTML-Entities like `&Sigma;`
-
-
-|Letter|Name|
-|:-----|:---|
+| Letter | Name |
+|:--------|:-------|
 |Α α|alpha, άλφα|
 |Β β|beta, βήτα|
 |Γ γ|gamma, γάμμα|
@@ -31,7 +27,7 @@ All these symbols can be input directly without reverting to awkward HTML-Entiti
 |Ο ο|omicron, όμικρον|
 |Π π|pi, πι|
 |Ρ ρ|rho, ρώ|
-|Σ σ/ς[8]|sigma, σίγμα|
+|Σ σ/ς|sigma, σίγμα|
 |Τ τ|tau, ταυ|
 |Υ υ|upsilon, ύψιλον|
 |Φ φ|phi, φι|
