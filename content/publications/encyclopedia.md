@@ -6,31 +6,33 @@ menu:
     weight: 50
 ---
 
-### Cambridge Dictionary of Philosophy (ed. R. Audi, Cambridge 1995)
+### _[Cambridge Dictionary of Philosophy](http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=0521637228)_ (ed. R. Audi, Cambridge 1995)
 ‘Epicureanism’, ‘Stoicism’, ‘Hellenistic Philosophy’
 
-### Oxford Classical Dictionary (3rd edition, 1996)
+### _[Oxford Classical Dictionary](http://www.oup.com/uk/catalogue/?ci=9780198606413)_ (3rd edition, 1996)
 ‘Academy’, ‘Anaxarchus’, ‘Crantor’, ‘Dialectic’, ‘Diodorus’, ‘Eubulides’, ‘Hippobotus’, ‘Megarian school’, ‘Nausiphanes’, ‘Nicias’, ‘Philo’, ‘Polemon’, ‘Stilpon’
 
-### The Encyclopedia of Classical Philosophy (ed. D.J. Zeyl, Westport, Ct. 1997)
-‘Anonymous commentator on the Theaetetus’, ‘Colotes’, ‘Hermarchus’, ‘Metrodorus of Lampsacus’, ‘Polyaenus’
+### _[The Encyclopedia of Classical Philosophy](http://www.amazon.com/exec/obidos/ASIN/188496494X/cdparadise-20/104-4271026-7613559)_ (ed. D.J. Zeyl, Westport, Ct. 1997)
+‘Anonymous commentator on the _Theaetetus_’, ‘Colotes’, ‘Hermarchus’, ‘Metrodorus of Lampsacus’, ‘Polyaenus’
 
-### The Routledge Encyclopedia of Philosophy (ed. E. Craig, London, 1998)
+### _[The Routledge Encyclopedia of Philosophy](http://www.rep.routledge.com/index.html)_ (ed. E. Craig, London, 1998)
 ‘Ancient philosophy’, ‘Atomism, ancient’, ‘Arete’, ‘Ariston of Chios’, ‘Chrysippus’, ’Cleanthes, ‘Epicurus’, ‘Epicureanism’, ‘Dialectical school’, ‘Hellenistic philosophy’, ‘Megarian school’, ‘Parmenides’, ‘Presocratic philosophy’, ‘Melissus’, ‘Stoicism’, ‘Zeno of Citium’
 
-### The Cambridge Dictionary of Classical Civilisation (ed. G. Shipley et al., Cambridge, 2006)
+### _[The Cambridge Dictionary of Classical Civilisation](http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521483131)_ (ed. G. Shipley et al., Cambridge, 2006)
 ‘Matter’, ‘Philosophical schools’, ‘Philosophy, Greek’, ‘Sceptics’, ‘Stoicism’
 
-### The Classics of Western Philosophy, ed. J.J.E. Gracia, G.M. Reichberg, B.N. Schumacher (Oxford, 2003)
-‘Lucretius, De Rerum Natura’
+### _The Classics of Western Philosophy_, ed. J.J.E. Gracia, G.M. Reichberg, B.N. Schumacher (Oxford, 2003)
+‘Lucretius, _De Rerum Natura_’
 
-### The Stanford Encyclopedia of Philosophy, ed. E.N. Zalta
-‘Lucretius’ (2004)
-‘Plato, Cratylus’ (2006)
-‘Diodorus Cronus’ (2009)
+### _[The Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)_, ed. E.N. Zalta
+[‘Lucretius’](http://plato.stanford.edu/entries/lucretius/) (2004)
+[‘Plato, ](http://plato.stanford.edu/entries/plato-cratylus/) (2006)
+[‘Diodorus Cronus’](http://plato.stanford.edu/entries/diodorus-cronus/) (2009)
 
-### The Handbook for Mereology (Munich, forthcoming)
+### _The Handbook for Mereology_ (Munich, forthcoming)
+
 ‘Ancient Greek Atomism’
 
-### The Oxford Encyclopedia of Ancient Greece and Rome (Oxford, forthcoming)
+### _The Oxford Encyclopedia of Ancient Greece and Rome_ (Oxford, forthcoming)
+
 ‘Teleology’
