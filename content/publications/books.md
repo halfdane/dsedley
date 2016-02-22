@@ -1,20 +1,20 @@
 ---
 title: "Books"
-
 menu:
   main:
     parent: 'Publications'
 weight: 10
+class: "books"
 ---
 
 ### (with A.A. Long) _[The Hellenistic Philosophers](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521275563)_
-(Cambridge 1987); vol. 1, xv + 512 pp.; vol. 2, xi + 512 pp. (German edition, tr. K. Hülser, Stuttgart 2000; French edition, tr. J. Brunschwig and P. Pellegrin,Paris, 2001); Hungarian edition, tr. L. Bene et al., 2015
 ![](../bookcovers/LS.gif)
+(Cambridge 1987); vol. 1, xv + 512 pp.; vol. 2, xi + 512 pp. (German edition, tr. K. Hülser, Stuttgart 2000; French edition, tr. J. Brunschwig and P. Pellegrin,Paris, 2001); Hungarian edition, tr. L. Bene et al., 2015
 
 ### _[Lucretius and the Transformation of Greek Wisdom](http://uk.cambridge.org/catalogue/catalogue.asp?isbn=0521570328)_
+![](../bookcovers/Lucr.jpg)
 (Cambridge 1998)
 [paperback edition](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521542146), September 2003
-![](../bookcovers/Lucr.jpg)
 
 
 ### (editor) _[The Cambridge Companion to Greek and Roman Philosophy ](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521775035)_

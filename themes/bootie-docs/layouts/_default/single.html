@@ -3,7 +3,7 @@
 <div class="row">
 	<div class="col-sm-12 doc-main">
 		<main role="main">
-			<article>
+			<article{{if isset .Params "class" }} class="{{ .Params.class }}"{{end}}>
 				<a id="title"></a>
 				<h1 class="doc-entry-title">{{ .Title }}</h1>
 				<div class="doc-entry-meta">
