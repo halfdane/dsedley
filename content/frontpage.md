@@ -22,4 +22,4 @@ Christ's College, Cambridge CB2 3BU, UK
 direct line: 01223 334910
 
 ## E-Mail address:
-dns1@cam.ac.uk
+{{< email >}}
