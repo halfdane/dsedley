@@ -1,9 +1,9 @@
 ---
 title: "Work in progress"
+weight: 60
 menu:
   main:
-    parent: 'Publications'
-    weight: 60
+    parent: 'Other'
 ---
 
 ## Articles and conference/seminar papers
