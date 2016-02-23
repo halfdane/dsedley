@@ -6,7 +6,7 @@ menu:
     parent: 'Publications'
 ---
 
-### ‘The structure of Epicurus’ _On nature_’
+### ‘The structure of Epicurus’ _On nature’_
 _Cronache Ercolanesi_ 4 (1974), 89-92
 
 ### ‘Epicurus, _On nature_, Book XI: an argument against Eudoxan astronomy’
@@ -50,7 +50,7 @@ in M.F. Burnyeat (ed.), _The Skeptical Tradition_ (Berkeley/Los Angeles 1983), 9
 ### ‘On the Stoic goods in Stobaeus, _Eclogae_ 2’
 in W.W. Fortenbaugh (ed.), _On Stoic and Peripatetic ethics: the work of Arius Didymus_ (Rutgers University Studies in Classical Humanities, 1; New Brunswick 1983), 85-6
 
-### ‘The character of Epicurus’ _On nature_’
+### 'The character of Epicurus' _On nature'_
 in _Atti del XVII congresso internazionale di papirologia_ (Naples 1984), 381-7
 
 ### ‘The negated conjunction in Stoicism’
@@ -80,13 +80,13 @@ _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/b
 ### ‘The proems of Empedocles and Lucretius’
 _[Greek, Roman and Byzantine Studies](http://www.duke.edu/web/classics/grbs)_ 30 (1989), 269-96
 
-### ‘Teleology and myth in the __Phaedo__’
+### 'Teleology and myth in the _Phaedo'_
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 5 (1990), 359-83
 
 ### ‘Is Aristotle’s teleology anthropocentric?’
 _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/brill/00318868/contp1.htm)_ 36 (1991), 179-96
 
-###  ‘Empedocles’ theory of vision and Theophrastus _De sensibus_’
+###  ‘Empedocles’ theory of vision and Theophrastus _De sensibus’_
  in W.W. Fortenbaugh, D. Gutas (eds.), _Theophrastus: his Psychological, Doxographical and Scientific Writings_, Rutgers University Studies in Classical Humanities, 5; New Brunswick 1992), 20-31
 
 ### ‘Sextus Empiricus and the atomist criteria of truth’
@@ -104,7 +104,7 @@ _Aristotelian Society_ suppl. vol. 67 (1993), 125-49
 ### ‘La causalità psicologica nel _Fedone’_
 in A. Alberti (ed.), _Realtà e Ragione_ (Florence 1994), 107-22
 
-### ‘The dramatis personae of Plato’s _Phaedo’_
+### ‘The dramatis personae of Plato’s <em>Phaedo</em>’
 in T.J. Smiley (ed.), _Philosophical Dialogues: Plato, Hume and Wittgenstein_ (Oxford 1995), 1-26
 
 ### ‘Three Platonist interpretations of the _Theaetetus’_
@@ -138,7 +138,7 @@ in T. Calvo, L. Brisson (ed.) _Interpreting the Timaeus-Critias_ (Sankt Augustin
 _Journal of Roman Studies_ 87 (1997), 41-53	
 also available [on line](http://uk.jstor.org/view/00754358/ap010093/01a00040/0?config=jstor&frame=noframe&userID=836f0866@cam.ac.uk/02cc99333c0050dc767f&dpi=3)
 
-### ‘How Lucretius composed the _De rerum natura_’
+### ‘How Lucretius composed the _De rerum natura’_
 in K.A. Algra, M.H. Koenen, P.H. Schrijvers (eds.), _Lucretius and his Intellectual Background_ (Amsterdam 1997), 1-19
 
 ### ‘Platonic causes’
@@ -153,11 +153,11 @@ in C. Atherton (ed.), _Form and Content in Didactic Poetry_, Nottingham Classica
 ### ‘Le scuole filosofiche e le città’
 in S. Settis (ed.), _I greci_ vol. II.3 (Turin 1998), 467-82
 
-### ‘The etymologies in Plato’s _Cratylus_’
+### ‘The etymologies in Plato’s _Cratylus’_
 _Journal of Hellenic Studies_ 118 (1998), 142-56
 
 ### ‘Aristotelian relativities’
-in M. Canto Sperber and P. Pellegrin (ed.), _Le Style de la pensée. Receuil d’hommages à Jacques Brunschwig _(Paris, 2002), 324-52; already published in Italian under the title ‘Relatività aristoteliche’, in _Dianoia_ 2 (1997), 11-25, and 3 (1998), 11-23
+in M. Canto Sperber and P. Pellegrin (ed.), _Le Style de la pensée. Receuil d’hommages à Jacques Brunschwig_ (Paris, 2002), 324-52; already published in Italian under the title ‘Relatività aristoteliche’, in _Dianoia_ 2 (1997), 11-25, and 3 (1998), 11-23
 
 ### ‘Pythagoras the grammar teacher and Didymon the adulterer’
 in _Hyperboreus_ 4/1 (1998), 122-38; shorter version, entitled ‘Pythagoras the grammar teacher (PbrLibr Add MS 37516, 1)’, in _[Papiri filosofici: Miscellanea di studi II](http://www.colombaria.it/papiri.htm#STUDI%20E%20TESTI%20PER%20IL%20CORPUS%20DEI%20PAPIRI%20FILOSOFICI%20GRECI%20E%20LATINI)_ (Florence 1998), 167-81
@@ -166,12 +166,12 @@ in _Hyperboreus_ 4/1 (1998), 122-38; shorter version, entitled ‘Pythagoras the
 in K. Ierodiakonou (ed.), 
 
 ΘΕΜΑΤΑ ΣΤΩΙΚΗΣ ΦΙΛΟΣΟΦΙΑΣ
-(special issue of _Deukalion_, 1997; in Greek translation), and in K. Ierodiakonou (ed.), _[Topics in Stoic Philosophy](http://www.oup-usa.org/isbn/019924880X.html)_________(Oxford 1999), 128-52
+(special issue of _Deukalion_, 1997; in Greek translation), and in K. Ierodiakonou (ed.), _[Topics in Stoic Philosophy](http://www.oup-usa.org/isbn/019924880X.html)_ (Oxford 1999), 128-52
 
 ### ‘Lucretius’ use and avoidance of Greek’
 in J.N. Adams, R. Mayer (ed.), _Aspects of the Language of Latin Poetry_ (Proceedings of the British Academy, Oxford 1999), 227-46
 
-### ‘Aspasius on _akrasia_’
+### ‘Aspasius on _akrasia’_
 in A. Alberti, R.W. Sharples (ed.), _Aspasius: the Earliest Extant Commentary on Aristotle’s Ethics_ (Berlin 1999), 162-75
 
 ### ‘Parmenides and Melissus’
@@ -187,10 +187,10 @@ in _>The Cambridge History of Hellenistic Philosophy_ (Cambridge 1999), 353-411
 in M. Frede, D. Charles (ed.), _Aristotle’s Metaphysics Book Lambda_ (Oxford 2000), 327-50
 
 ### ‘Socratic irony in the Platonist commentators’
-in J. Annas and C.J. Rowe (ed.), _New Perspectives on Plato: Modern and Ancient_ (Cambridge, Mass., 2002), 37-57; earlier version, ‘L’ironie dans le dialogue platonicien selon les commentateurs anciens’, in F. Cossuta, M. Narcy (ed.), _La forme-dialogue chez Platon _(Grenoble, 2001), 5-19
+in J. Annas and C.J. Rowe (ed.), _New Perspectives on Plato: Modern and Ancient_ (Cambridge, Mass., 2002), 37-57; earlier version, ‘L’ironie dans le dialogue platonicien selon les commentateurs anciens’, in F. Cossuta, M. Narcy (ed.), _La forme-dialogue chez Platon_ (Grenoble, 2001), 5-19
 
 ### ‘Epistemologia e teorie della natura nell’età ellenistica’
-in_ Storia della scienza_ I (Istituto dell’Enciclopedia Italiana, Rome 2001), 678-90
+in _Storia della scienza_ I (Istituto dell’Enciclopedia Italiana, Rome 2001), 678-90
 
 ### ‘The origins of Stoic god’
 in D. Frede, A. Laks (ed.), _Traditions of Theology_ (Leiden 2002), 41-83
@@ -198,7 +198,7 @@ in D. Frede, A. Laks (ed.), _Traditions of Theology_ (Leiden 2002), 41-83
 ### ‘Diogenes of Oenoanda on Cyrenaic ethics’
 in _[Proceedings of the Cambridge Philological Society](http://www.classics.cam.ac.uk/pcps/pcpshome.html)_ 228 (2002), 159-74
 
-### ‘The collapse of language?_ Theaetetus_ 179c-183c’
+### ‘The collapse of language? _Theaetetus_ 179c-183c’
 published on line in _[Plato](http://www.ex.ac.uk/plato)_ 3 (2002)
 
 ### ‘The school: from Zeno to Arius Didymus’
@@ -207,19 +207,19 @@ in B. Inwood (ed.), _[The Cambridge Companion to the Stoics](http://www.cambridg
 ### (with Jacques Brunschwig) ‘Hellenistic philosophy’
 in D.N. Sedley (ed.), _The Cambridge Companion to Greek and Roman Philosophy_ (Cambridge 2003), 151-83
 
-### ‘Zeno’s definition of _phantasia kataleptike_’
+### ‘Zeno’s definition of _phantasia kataleptike’_
 in T. Scaltsas and A.S. Mason (eds.), _The Philosophy of Zeno. Zeno of Citium and his Legacy_ (Larnaca 2002), 133-54; also published as ‘La définition de _phantasia kataleptike_ par Zénon’ in G. Romeyer Dherbey, J.-B. Gourinat (eds.), _Les Stoïciens_ (Paris 2005), 75-92
 
 ### ‘Lucretius and the new Empedocles’
  published on line in _[Leeds International Classical Studies](http://www.leeds.ac.uk/classics/lics/volumes.html)_ 2 (2003)
 
-### ‘A Socratic interpretation of Plato’s _Theaetetus_’
+### ‘A Socratic interpretation of Plato’s _Theaetetus’_
 _[Proceedings of the Boston Area Colloquium in Ancient Philosophy](http://www.bu.edu/philo/events/bacap/ancient01.html)_ 18 (2003), 277-313
 
-### ‘Etymology as a _techne_ in Plato’s_ Cratylus_’
+### ‘Etymology as a _techne_ in Plato’s _Cratylus’_
 in C. Nifadopoulos (ed.), _ETYMOLOGIA: Studies in Ancient Etymology_ (Münster, 2003), 21-32; also ‘La tecnicità del metodo etimologico nel Cratilo’, in M. Migliori (ed.), _Il problema del metodo in Platone e Aristotele_(forthcoming)
 
-### ‘The _nomothetes_ in Plato’s_ Cratylus_’
+### ‘The _nomothetes_ in Plato’s _Cratylus’_
 _[Studia Philonica Annual](http://www.nd.edu/~philojud/)_ 15 (2003), 5-16
 
 ### ‘Philodemus and the decentralisation of philosophy’
@@ -242,13 +242,13 @@ in _[Revue de métaphysique et de morale](http://www.ac-toulouse.fr/philosophie/
 ### ‘Verità futura e causalità nel _De fato_ di Cicerone’
 in C. Natali and S. Maso (ed.) _La catena delle cause. Determinismo e antideterminismo nel pensiero antico e in quello contemporaneo_ (Amsterdam 2005), 241-54
 
-### ‘The speech of Agathon in Plato's _Symposium_’
+### ‘The speech of Agathon in Plato's _Symposium’_
 in B. Reis (ed.), _The Virtuous Life in Greek Ethics_ (Cambridge 2006), 49-67
 
 ### ‘Plato’s tsunami’
 varying versions in _THEO DORON_ (private festschrift for T.L. Zinn, 2006), in _Hyperboreus_ 11. 2 (2005) 205-214, and (as ‘Lo tsunami di Platone’) in proceedings of a conference in honour of Antonio Carlini
 
-### ‘Form-particular resemblance in Plato’s _Phaedo_’
+### ‘Form-particular resemblance in Plato’s _Phaedo’_
 _Proceedings of the Aristotelian Society_ 106 (3) (2006), 311-27
 
 ### ‘Plato on language’
@@ -266,7 +266,7 @@ in P. Curd, D.W. Graham (ed.), _The Oxford Handbook of Presocratic Philosophy_ (
 ### ‘Socrates’ place in the history of teleology’
 _Elenchos_  29 (2008), 317-34; revised version, 'Socrates, Darwin and Teleology' forthcoming in proceedings of 2009 Exeter conference on ancient teleology
 
-### ‘Myth, punishment and politics in Plato’s _Gorgias_’
+### ‘Myth, punishment and politics in Plato’s _Gorgias’_
 in C. Partenie (ed.), _Plato’s myths_ (Cambridge 2009), 51-76
 
 ### ‘Presocratic themes: being, not-being and mind’
@@ -278,7 +278,7 @@ in J. Barnes, J.-B. Gourinat (ed.) _Lire les stoiciens_ (2009), 79-97
 ### ‘Epicureanism in the Late Roman Republic’
 in J. Warren (ed.), _The Cambridge Companion to Epicureanism_ (Cambridge 2009), 29-45
 
-### ‘Plato’s _Timaeus_ and Hesiod’s  _Theogony_’
+### ‘Plato’s _Timaeus_ and Hesiod’s  _Theogony’_
 in J.H. Haubold, G.R. Boys-Stones (ed.), _Plato and Hesiod_ (Oxford 2009), 246-58
 
 ### ‘Three kinds of Platonic immortality’
@@ -308,7 +308,7 @@ in J. Fish and K. Sanders (eds.), _Epicurus and the Epicurean Tradition_ (Cambri
 ### ‘Matter in Hellenistic philosophy’
 in D. Giovannozzi and M. Veneziani (eds.) _Materia_ (Florence 2011), 53-66
 
-### ‘Anon., _In Aristotelis Categorias_’
+### ‘Anon., _In Aristotelis Categorias’_
 edited in collaboration with N. Wilson, M. Rashed, N. Tchernetska and R.W. Sharples, in R. Netz et al. (eds.) _The Archimedes Palimpsest_ vol. 2 (Cambridge 2011), 311-39
 
 ### ‘PHibeh 184: Platonist logic in the third century BC?’
@@ -329,7 +329,7 @@ _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ XXVII (Leiden 
 ### ‘Plato’s theory of change at _Phaedo_ 70-1’
 in _Presocratics and Plato: A Festschrift in Honor of Charles H. Kahn_ (Las Vegas, forthcoming 2012), 181-97
 
-### ‘Cicero and the _Timaeus_’
+### ‘Cicero and the _Timaeus’_
 in M. Schofield (ed.) _Aristotle, Plato and Pythagoreanism in the First Century BC_ (Cambridge 2013), 187-205
 
 ### R. Chiaradonna, M. Rashed and D. Sedley, ‘A rediscovered _Categories_ commentary’
@@ -347,10 +347,10 @@ in S. Bullivant and M. Ruse (eds.), _The Oxford Handbook of Atheism_ (Oxford, 20
 ### ‘Plato and the One-over-Many principle’
 in R. Chiaradonna and G. Galluzzo (ed.), _Universals in Ancient Philosophy_, (Pisa, 2013), 113-37
 
-### ‘Socratic intellectualism in the _Republic_’s central digression’
+### ‘Socratic intellectualism in the <em>Republic</em>’s central digression’
 in G. Boys-Stones, D. El Murr, C. Gill (eds.) _The Platonic Art of Philosophy. Studies in Honour of Christopher Rowe_ (Cambridge 2013), 70-89
 
-### ‘The unity of virtue after the _Protagoras_’
+### ‘The unity of virtue after the _Protagoras’_
 in  B. Collette and S. Delcomminette (eds.), _Unité et origine des vertus dans la philosophie ancienne_ (2014), 65-90
 
 ### ‘Horace’s _Socraticae chartae_ (_A. P._ 295-322)’
