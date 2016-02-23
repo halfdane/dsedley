@@ -41,6 +41,8 @@ in
 
 ΣΥΖΗΤΗΣΙΣ_:
 studi sull’ epicureismo greco e romano offerti a Marcello Gigante_ (Naples 1983), 11-51
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘The motivation of Greek skepticism’
 in M.F. Burnyeat (ed.), _The Skeptical Tradition_ (Berkeley/Los Angeles 1983), 9-29
