@@ -31,7 +31,7 @@ class: "books"
 
 ### Italian translation, _La levatrice del platonismo_
 (Milan, 2011)
-![](../bookcovers/levatrice)
+![](../bookcovers/levatrice.jpg)
 
 ### _[Creationism and its Critics in Antiquity](http://www.ucpress.edu/books/pages/10999.html)_
 [ Sather Classical Lectures 66](http://www.berkeley.edu/news/berkeleyan/2004/09/16_sather.shtml)
