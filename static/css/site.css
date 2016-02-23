@@ -8,6 +8,10 @@ h3 {
     padding-bottom: 0.1em;
 }
 
+.build-status img {
+    width: auto;
+}
+
 .books img {
     float: left;
     width: 20%;
