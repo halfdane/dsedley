@@ -26,4 +26,4 @@ Keeling Lecture, 2015
 ### Ancient Greek theology
 based on 2014 lectures at Renmin University, Beijing, to be published initially in Chinese
 
-### Plato's Phaedo
+### Plato’s Phaedo
