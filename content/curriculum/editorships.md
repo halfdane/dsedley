@@ -13,7 +13,7 @@ co-editor, [The Classical Quarterly](http://journals.cambridge.org/action/displa
 co-editor, [Cambridge Classical Texts and Commentaries](http://www.cambridge.org/aus/browse/browse_highlights.asp?subjectid=111750) (Cambridge University Press)
 
 ### 1992-8:
-ancient philosophy section editor for _The Routledge Encyclopedia of Philosophy_ (London 1998; General Editor Edward Craig), and for updated and enlarged [on-line version](http://www.rep.routledge.com/index.html) (2002)
+ancient philosophy section editor for _The Routledge Encyclopedia of Philosophy_ (London 1998; General Editor Edward Craig), and for updated and enlarged [on-line version](https://www.rep.routledge.com/) (2002)
 
 ### 1995 - :
 member of the Comitato scientifico e redattivo del [Corpus dei papiri filosofici greci e latini](http://www.papirifilosofici.it/cpf.html) (Florence)
