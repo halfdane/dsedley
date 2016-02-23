@@ -149,7 +149,7 @@ in _Papiri Filosofici: Miscellanea di studi I_ (Florence 1997), 139-44
 ### ‘"Becoming like god" in the _Timaeus_ and Aristotle’
 in T. Calvo, L. Brisson (ed.) _Interpreting the Timaeus-Critias_ (Sankt Augustin 1997), 327-39; longer version, entitled ‘The ideal of godlikeness’, in G. Fine (ed.), _[Plato 2: Ethics, Politics, Religion, and the Soul](http://www.oup.co.uk/isbn/0-19-875204-0)_ (Oxford Readings in Philosophy; Oxford 1999), 309-328
 
-_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+_[Longer version: read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘The ethics of Brutus and Cassius’
 _Journal of Roman Studies_ 87 (1997), 41-53	
