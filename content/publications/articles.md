@@ -15,8 +15,12 @@ in _Proceedings of the XIV International Congress of Papyrology_ (Oxford 1974), 
 ### ‘Epicurus and his professional rivals’
 in J. Bollack, A. Laks (ed.), _Études sur l’épicurisme antique_ (_Cahiers de Philologie_ I, 1976), 119-59
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Epicurus and the mathematicians of Cyzicus’
 _Cronache Ercolanesi_ 6 (1976), 23-54
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Diodorus Cronus and Hellenistic philosophy’
 _Proceedings of the Cambridge Philological Society_ 203 (1977), 74-120
@@ -71,6 +75,8 @@ in R. Sorabji (ed.), _Philoponus and the Rejection of Aristotelian Science_ (Lon
 ### ‘Epicurean anti-reductionism’
 in J. Barnes, M. Mignucci (ed.), _Matter and Metaphysics_ (Naples 1988), 295-327; French version in _Les Cahiers Philosophiques de Strasbourg_ 15 (2003), 321-59
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Epicurus on the common sensibles’
 in P.M. Huby, G.C. Neale (ed.), _The Criterion of Truth: Studies in Honour of George Kerferd on his 70th birthday_ (Liverpool 1989), 123-36
 
@@ -86,6 +92,8 @@ _[Greek, Roman and Byzantine Studies](http://www.duke.edu/web/classics/grbs)_ 30
 ### 'Teleology and myth in the _Phaedo'_
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 5 (1990), 359-83
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Is Aristotle’s teleology anthropocentric?’
 _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/brill/00318868/contp1.htm)_ 36 (1991), 179-96
 
@@ -94,6 +102,8 @@ _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/b
 
 ### ‘Sextus Empiricus and the atomist criteria of truth’
 _[Elenchos](http://www.bibliopolis.it/rivis2.html)_ 13 (1992), 19-56
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Chrysippus on psychophysical causality’
 in J. Brunschwig, M. Nussbaum (ed.), _Passions & Perceptions_ (Cambridge 1993), 313-31
@@ -112,6 +122,8 @@ in T.J. Smiley (ed.), _Philosophical Dialogues: Plato, Hume and Wittgenstein_ (O
 
 ### ‘Three Platonist interpretations of the _Theaetetus’_
 in C. Gill, M.M. McCabe (ed.), _Form and Argument in Late Plato_ (Oxford 1996), 79-103
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Aristotle’s _De interpretatione_ and ancient semantics’
 in G. Manetti (ed.), _Knowledge through Signs: Ancient Semiotic Theories and Practices_ (Brussels 1996), 87-108; revised version, ‘Aristote et la signification’, _Philosophie Antique_  4 (2004), 5-25
@@ -137,6 +149,8 @@ in _Papiri Filosofici: Miscellanea di studi I_ (Florence 1997), 139-44
 ### ‘"Becoming like god" in the _Timaeus_ and Aristotle’
 in T. Calvo, L. Brisson (ed.) _Interpreting the Timaeus-Critias_ (Sankt Augustin 1997), 327-39; longer version, entitled ‘The ideal of godlikeness’, in G. Fine (ed.), _[Plato 2: Ethics, Politics, Religion, and the Soul](http://www.oup.co.uk/isbn/0-19-875204-0)_ (Oxford Readings in Philosophy; Oxford 1999), 309-328
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘The ethics of Brutus and Cassius’
 _Journal of Roman Studies_ 87 (1997), 41-53	
 also available [on line](http://uk.jstor.org/view/00754358/ap010093/01a00040/0?config=jstor&frame=noframe&userID=836f0866@cam.ac.uk/02cc99333c0050dc767f&dpi=3)
@@ -146,6 +160,8 @@ in K.A. Algra, M.H. Koenen, P.H. Schrijvers (eds.), _Lucretius and his Intellect
 
 ### ‘Platonic causes’
 _Phronesis_ 43 (1998), 114-32
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Theophrastus and Epicurean physics’
 in J.M. van Ophuijsen, M. van Raalte (ed.), _Theophrastus: Reappraising the Sources_ ([Rutgers University Studies in Classical Humanities](http://classics.rutgers.edu/rusch.html), 8; New Brunswick 1998), 331-54
@@ -162,8 +178,12 @@ _Journal of Hellenic Studies_ 118 (1998), 142-56
 ### ‘Aristotelian relativities’
 in M. Canto Sperber and P. Pellegrin (ed.), _Le Style de la pensée. Receuil d’hommages à Jacques Brunschwig_ (Paris, 2002), 324-52; already published in Italian under the title ‘Relatività aristoteliche’, in _Dianoia_ 2 (1997), 11-25, and 3 (1998), 11-23
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Pythagoras the grammar teacher and Didymon the adulterer’
 in _Hyperboreus_ 4/1 (1998), 122-38; shorter version, entitled ‘Pythagoras the grammar teacher (PbrLibr Add MS 37516, 1)’, in _[Papiri filosofici: Miscellanea di studi II](http://www.colombaria.it/papiri.htm#STUDI%20E%20TESTI%20PER%20IL%20CORPUS%20DEI%20PAPIRI%20FILOSOFICI%20GRECI%20E%20LATINI)_ (Florence 1998), 167-81
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘The Stoic-Platonist debate on _kathêkonta’_
 in K. Ierodiakonou (ed.), 
@@ -213,6 +233,8 @@ in D.N. Sedley (ed.), _The Cambridge Companion to Greek and Roman Philosophy_ (C
 ### ‘Zeno’s definition of _phantasia kataleptike’_
 in T. Scaltsas and A.S. Mason (eds.), _The Philosophy of Zeno. Zeno of Citium and his Legacy_ (Larnaca 2002), 133-54; also published as ‘La définition de _phantasia kataleptike_ par Zénon’ in G. Romeyer Dherbey, J.-B. Gourinat (eds.), _Les Stoïciens_ (Paris 2005), 75-92
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Lucretius and the new Empedocles’
  published on line in _[Leeds International Classical Studies](http://www.leeds.ac.uk/classics/lics/volumes.html)_ 2 (2003)
 
@@ -227,6 +249,8 @@ _[Studia Philonica Annual](http://www.nd.edu/~philojud/)_ 15 (2003), 5-16
 
 ### ‘Philodemus and the decentralisation of philosophy’
 _[Cronache Ercolanesi](http://www.cispegigante.it/frame.asp)_ 33 (2003), 31-41
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘_On Generation and Corruption_ I 2’
 in F.A.J. de Haas, J. Mansfeld (eds.), _[Aristotle, On Generation and Corruption Book 1. Symposium Aristotelicum](http://www.oup.co.uk/isbn/0-19-924292-5)_ (Oxford 2004), 65-89
@@ -248,17 +272,25 @@ in C. Natali and S. Maso (ed.) _La catena delle cause. Determinismo e antideterm
 ### ‘The speech of Agathon in Plato's _Symposium’_
 in B. Reis (ed.), _The Virtuous Life in Greek Ethics_ (Cambridge 2006), 49-67
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Plato’s tsunami’
 varying versions in _THEO DORON_ (private festschrift for T.L. Zinn, 2006), in _Hyperboreus_ 11. 2 (2005) 205-214, and (as ‘Lo tsunami di Platone’) in proceedings of a conference in honour of Antonio Carlini
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Form-particular resemblance in Plato’s _Phaedo’_
 _Proceedings of the Aristotelian Society_ 106 (3) (2006), 311-27
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Plato on language’
  in H. Benson (ed.), _A Companion to Plato_ (2006), 214-27
 
 ### ‘Equal sticks and stones’
 in D.J. Scott (ed.), _Maieusis_ (Oxford 2007), 68-86
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Philosophy, the Forms, and the art of ruling’
 in G.R.F. Ferrari (ed.), _The Cambridge Companion to Plato’s Republic_ (Cambridge 2007), 256-83; earlier version of one part in _International Symposium: The Ideal and Reality of Ancient Greek Democracy_, Department of History, Aoyama Gakuin University, Tokyo, 2004
@@ -287,6 +319,8 @@ in J.H. Haubold, G.R. Boys-Stones (ed.), _Plato and Hesiod_ (Oxford 2009), 246-5
 ### ‘Three kinds of Platonic immortality’
 in D. Frede and B. Reis (eds.), _Body and Soul in Ancient Philosophy_ (Berlin 2009), 145-61
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Philosophy in the Artemidorus papyrus’
 in C. Gallazzi, B. Kramer, S. Settis (eds.) _Intorno al Papiro di Artemidoro I. Contesto Culturale, Lingua e Stile. Atti del Convegno di Pisa del 15 novembre 2008_ (Milan 2009), 29-53
 
@@ -299,6 +333,8 @@ in A. Antoni, D. Delattre (eds.), _Miscellanea Papyrologica Herculanensia volume
 ### ‘Teleology, Aristotelian and Platonic’
 in J. Lennox, R. Bolton (eds.), _Being, Nature and Life in Aristotle: Essays in Honor of Allan Gotthelf_ (Cambridge 2010), 5-29
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Philosophy’
 in A. Barchiesi, W. Scheidel (ed.), _The Oxford Handbook of Roman Studies_ (Oxford 2010), 701-12
 
@@ -308,8 +344,12 @@ with Jacques Brunschwig, translation of fragments in _Les Epicuriens_,  ed. D. D
 ### ‘Epicurus' theological innatism’
 in J. Fish and K. Sanders (eds.), _Epicurus and the Epicurean Tradition_ (Cambridge 2011), 29-52
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Matter in Hellenistic philosophy’
 in D. Giovannozzi and M. Veneziani (eds.) _Materia_ (Florence 2011), 53-66
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Anon., _In Aristotelis Categorias’_
 edited in collaboration with N. Wilson, M. Rashed, N. Tchernetska and R.W. Sharples, in R. Netz et al. (eds.) _The Archimedes Palimpsest_ vol. 2 (Cambridge 2011), 311-39
@@ -323,6 +363,8 @@ in T. Bénatouïl and M. Bonazzi (eds.) _Theoria, Praxis, and the Contemplative 
 ### ‘Marcus Aurelius on physics’
 in M. Van Ackeren (ed.) _A Companion to Marcus Aurelius_ (Oxford 2012), 396-407
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Antiochus as historian of Philosophy’
 in D. Sedley (ed.) _The Philosophy of Antiochus_ (Cambridge 2012), 80-103
 
@@ -331,6 +373,8 @@ _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ XXVII (Leiden 
 
 ### ‘Plato’s theory of change at _Phaedo_ 70-1’
 in _Presocratics and Plato: A Festschrift in Honor of Charles H. Kahn_ (Las Vegas, forthcoming 2012), 181-97
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Cicero and the _Timaeus’_
 in M. Schofield (ed.) _Aristotle, Plato and Pythagoreanism in the First Century BC_ (Cambridge 2013), 187-205
@@ -344,17 +388,23 @@ in D. El Murr (ed.), _La Mesure du savoir. Études sur le Théétète_ (Paris 20
 ### ‘The atheist underground’
 in V. Harte and M. Lane (eds.) _Politeia in Greek and Roman Philosophy_ (Cambridge 2013), 329-48
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘From the Presocratic to the Hellenistic Age’
 in S. Bullivant and M. Ruse (eds.), _The Oxford Handbook of Atheism_ (Oxford, 2013), 139-51
 
 ### ‘Plato and the One-over-Many principle’
 in R. Chiaradonna and G. Galluzzo (ed.), _Universals in Ancient Philosophy_, (Pisa, 2013), 113-37
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Socratic intellectualism in the <em>Republic</em>’s central digression’
 in G. Boys-Stones, D. El Murr, C. Gill (eds.) _The Platonic Art of Philosophy. Studies in Honour of Christopher Rowe_ (Cambridge 2013), 70-89
 
 ### ‘The unity of virtue after the _Protagoras’_
 in  B. Collette and S. Delcomminette (eds.), _Unité et origine des vertus dans la philosophie ancienne_ (2014), 65-90
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Horace’s _Socraticae chartae_ (_A. P._ 295-322)’
 _Materiali e Discussioni_ 72 (2014), 217-41
