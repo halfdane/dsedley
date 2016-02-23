@@ -19,7 +19,7 @@ Keeling Lecture, 2015
 ### ‘Plato’s theory of Forms’
  Royal Institute of Philosophy lecture, December 2014; Assembly Series lecture, Washington University St Louis, March 2015.
  
- ### ‘Recollection in Plato’s Timaeus’
+### ‘Recollection in Plato’s Timaeus’
 
 ## Books
 
