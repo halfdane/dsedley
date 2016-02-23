@@ -80,7 +80,7 @@ _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/b
 ### ‘The proems of Empedocles and Lucretius’
 _[Greek, Roman and Byzantine Studies](http://www.duke.edu/web/classics/grbs)_ 30 (1989), 269-96
 
-### ‘Teleology and myth in the _Phaedo_’
+### ‘Teleology and myth in the __Phaedo__’
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 5 (1990), 359-83
 
 ### ‘Is Aristotle’s teleology anthropocentric?’
