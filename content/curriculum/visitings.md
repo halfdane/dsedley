@@ -41,3 +41,6 @@ Corpus Christi College Oxford, Centre for the Study of Greek and Roman Antiquity
 
 ### May 2015:
 Keeling Lecture, University College London
+
+### March 2016:
+Gregory Vlastos Memorial Lecture, Queen’s University, Ontario
