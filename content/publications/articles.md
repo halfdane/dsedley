@@ -60,6 +60,8 @@ _[Elenchos](http://www.bibliopolis.it/rivis2.html)_ 5 (1984), 311-16
 ### ‘The Stoic theory of universals’
 in _Southern Journal of Philosophy_ 23, suppl., ‘Spindel Conference 1984: Recovering the Stoics’, 87-92
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Three notes on Theophrastus’ treatment of tastes and smells’
  in W.W.Fortenbaugh (ed.), _Theophrastus of Eresus, on his Life and Work_ (Rutgers University Studies in Classical Humanities, 2; New Brunswick 1985), 205-7
 
