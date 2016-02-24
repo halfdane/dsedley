@@ -9,6 +9,8 @@ menu:
 ### ‘Epicurus, _On nature_, Book XXVIII’
 _[Cronache Ercolanesi](http://www.cispegigante.it/frame.asp)_ 3 (1973), 5-83
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### _The Oxyrhynchus Papyri_ LII (1984), ed. H.M. Cockle
 Edition of POxy. 3654, 3655, 3657 and 3658
 
