@@ -30,7 +30,8 @@ Townsend Lecturer, [Classics Department, Cornell University](http://classics.cor
 ### March 2015 (1 week):
 John and Penelope Biggs Resident in the Classics, Washington University in St Louis 
  
-     
+  ________
+  ________
      
      
  
