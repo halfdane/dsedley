@@ -26,4 +26,7 @@ Edition of POxy 4941, ‘A Thrasyllan interpretation of Plato’s _Theaetetus_�
 ### Epicurus, _On nature_
 with Jacques Brunschwig, translation of fragments in _Les Epicuriens_,  ed. D. Delattre and J. Pigeaud (Paris 2011), 79-118
 
+### ‘Anon., _In Aristotelis Categorias’_
+edited in collaboration with N. Wilson, M. Rashed, N. Tchernetska and R.W. Sharples, in R. Netz et al. (eds.) _The Archimedes Palimpsest_ vol. 2 (Cambridge 2011), 311-39
+
 
