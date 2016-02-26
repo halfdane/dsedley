@@ -339,9 +339,6 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘Philosophy’
 in A. Barchiesi, W. Scheidel (ed.), _The Oxford Handbook of Roman Studies_ (Oxford 2010), 701-12
 
-### Epicurus, _On nature_
-with Jacques Brunschwig, translation of fragments in _Les Epicuriens_,  ed. D. Delattre and J. Pigeaud (Paris 2011), 79-118
-
 ### ‘Epicurus' theological innatism’
 in J. Fish and K. Sanders (eds.), _Epicurus and the Epicurean Tradition_ (Cambridge 2011), 29-52
 
