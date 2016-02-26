@@ -22,3 +22,8 @@ _[Corpus dei papiri filosofici greci e latini](http://www.colombaria.it/papiri.h
 
 ### _The Oxyrhynchus Papyri_ LXXIII (2009), ed. D.D. Obbink and N. Gonis
 Edition of POxy 4941, ‘A Thrasyllan interpretation of Plato’s _Theaetetus_’
+
+### Epicurus, _On nature_
+with Jacques Brunschwig, translation of fragments in _Les Epicuriens_,  ed. D. Delattre and J. Pigeaud (Paris 2011), 79-118
+
+
