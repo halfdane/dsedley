@@ -326,7 +326,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in C. Gallazzi, B. Kramer, S. Settis (eds.) _Intorno al Papiro di Artemidoro I. Contesto Culturale, Lingua e Stile. Atti del Convegno di Pisa del 15 novembre 2008_ (Milan 2009), 29-53
 
 ### ‘The _Theaetetus_ as an ethical dialogue’
-in A. Havlicek, F. Karfik and S. Spinka (eds.), _Plato’s Theaetetus. Proceedings of Sixth Symposium Platonicum Pragense_ (2009), 2-13 (revised version,  ‘Plato’s _Theaetetus_ as an ethical dialogue’ in A. Nightingale and D. Sedley (eds.), _Ancient Models of Mind. Studies in Human and Divine Rationality_), 2010, 64-74
+in A. Havlicek, F. Karfik and S. Spinka (eds.), _Plato’s Theaetetus. Proceedings of Sixth Symposium Platonicum Pragense_ (2009), 2-13. Revised version,  ‘Plato’s _Theaetetus_ as an ethical dialogue’ in A. Nightingale and D. Sedley (eds.), _Ancient Models of Mind. Studies in Human and Divine Rationality_ (Cambridge 2010), 64-74
 
 ### ‘The status of physics in Lucretius, Philodemus and Cicero’
 in A. Antoni, D. Delattre (eds.), _Miscellanea Papyrologica Herculanensia volumen I_ (Pisa 2010), 63-8
@@ -414,7 +414,7 @@ _Materiali e Discussioni_ 72 (2014), 217-41
 in K.M. Vogt (ed.), _Pyrrhonian Skepticism in Diogenes Laertius_ (Tübingen 2015), 171-85
 
 ### ‘Varieties of definition’
-in D. Ebrey (ed.), _Theory and Practice in Aristotle’s Natural Philosophy_ (Cambridge 2015)
+in D. Ebrey (ed.), _Theory and Practice in Aristotle’s Natural Philosophy_ (Cambridge 2015), 187-98
 
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’
 in _Les Présocratiques dans la poésie latine_ (forthcoming)
@@ -429,7 +429,7 @@ in _Les Présocratiques dans la poésie latine_ (forthcoming)
 in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford, forthcoming)
 
 ### ‘Epicurus on dialectic’
-forthcoming in papers of 2013 Symposium Hellenisticum
+forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K. Ierodiakonou
 
 ### ‘Empedoclean superorganisms’
 forthcoming in A. Marmodoro (ed.), special Empedocles number of _Rhizomata_
