@@ -15,7 +15,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 Edition of POxy. 3654, 3655, 3657 and 3658
 
 ### Edition of Anonymous Commentary on Plato’s _Theaetetus_
-G. Bastianini, D. Sedley, in _[Corpus dei papiri filosofici greci e latini](http://www.colombaria.it/papiri.htm)_, vol. III (Florence 1995), 227-562
+G. Bastianini, D. Sedley, in _[Corpus dei papiri filosofici greci e latini](http://www.papirifilosofici.it/cpf-en.html)_, vol. III (Florence 1995), 227-562
 
 ### various texts in 
 _[Corpus dei papiri filosofici greci e latini](http://www.papirifilosofici.it/cpf-en.html)_ vol. I.1*, I.1** and I.1*** (Florence 1989-99)
