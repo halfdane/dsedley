@@ -38,7 +38,7 @@ _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/b
 in J. Barnes et al. (ed.), _Science and Speculation: Studies in Hellenistic Theory and Practice_ (Cambridge 1982), 239-72
 
 ### ‘The Stoic criterion of identity’
-_[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/brill/00318868/contp1.htm)_ 27 (1982), 255-75; French version, ‘Le Critère d’identité chez les Stoïciens’, _[Revue de métaphysique et de morale](http://www.ac-toulouse.fr/philosophie/revphi/rmm.htm)_ 4 (1989), 513-33
+_[Phronesis]_ 27 (1982), 255-75; French version, ‘Le Critère d’identité chez les Stoïciens’, _[Revue de métaphysique et de morale](http://www.ac-toulouse.fr/philosophie/revphi/rmm.htm)_ 4 (1989), 513-33
 
 ### ‘Epicurus’ refutation of determinism’
 in
