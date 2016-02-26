@@ -18,7 +18,7 @@ Edition of POxy. 3654, 3655, 3657 and 3658
 G. Bastianini, D. Sedley, in _[Corpus dei papiri filosofici greci e latini](http://www.colombaria.it/papiri.htm)_, vol. III (Florence 1995), 227-562
 
 ### various texts in 
-_[Corpus dei papiri filosofici greci e latini](http://www.colombaria.it/papiri.htm)_ vol. I.1*, I.1** and I.1*** (Florence 1989-99)
+_[Corpus dei papiri filosofici greci e latini](http://www.papirifilosofici.it/cpf-en.html)_ vol. I.1*, I.1** and I.1*** (Florence 1989-99)
 
 ### _The Oxyrhynchus Papyri_ LXXIII (2009), ed. D.D. Obbink and N. Gonis
 Edition of POxy 4941, ‘A Thrasyllan interpretation of Plato’s _Theaetetus_’
