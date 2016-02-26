@@ -40,11 +40,10 @@ in J. Barnes et al. (ed.), _Science and Speculation: Studies in Hellenistic Theo
 ### ‘The Stoic criterion of identity’
 _Phronesis_ 27 (1982), 255-75; French version, tr. J. Brunschwig, ‘Le Critère d’identité chez les Stoïciens’, _Revue de métaphysique et de morale_ 4 (1989), 513-33
 
-### ‘Epicurus’ refutation of determinism’
-in
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
-ΣΥΖΗΤΗΣΙΣ_:
-studi sull’ epicureismo greco e romano offerti a Marcello Gigante_ (Naples 1983), 11-51
+### ‘Epicurus’ refutation of determinism’
+in ΣΥΖΗΤΗΣΙΣ_: studi sull’ epicureismo greco e romano offerti a Marcello Gigante_ (Naples 1983), 11-51
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -100,6 +99,8 @@ _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/b
 ###  ‘Empedocles’ theory of vision and Theophrastus _De sensibus’_
  in W.W. Fortenbaugh, D. Gutas (eds.), _Theophrastus: his Psychological, Doxographical and Scientific Writings_, Rutgers University Studies in Classical Humanities, 5; New Brunswick 1992), 20-31
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Sextus Empiricus and the atomist criteria of truth’
 _[Elenchos](http://www.bibliopolis.it/rivis2.html)_ 13 (1992), 19-56
 
@@ -107,6 +108,8 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Chrysippus on psychophysical causality’
 in J. Brunschwig, M. Nussbaum (ed.), _Passions & Perceptions_ (Cambridge 1993), 313-31
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Commentary on Mansfeld’ (on J. Mansfeld, ‘The idea of will in Chrysippus, Posidonius and Galen’)
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 7 (1993), 146-52
@@ -119,6 +122,8 @@ in A. Alberti (ed.), _Realtà e Ragione_ (Florence 1994), 107-22
 
 ### ‘The dramatis personae of Plato’s <em>Phaedo</em>’
 in T.J. Smiley (ed.), _Philosophical Dialogues: Plato, Hume and Wittgenstein_ (Oxford 1995), 1-26
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Three Platonist interpretations of the _Theaetetus’_
 in C. Gill, M.M. McCabe (ed.), _Form and Argument in Late Plato_ (Oxford 1996), 79-103
