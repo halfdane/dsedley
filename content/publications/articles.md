@@ -87,7 +87,7 @@ in M. Griffin, J. Barnes (ed.), _Philosophia Togata_ (Oxford 1989), 97-119
 _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/brill/00318868/contp1.htm)_ 34 (1989), 107-8
 
 ### ‘The proems of Empedocles and Lucretius’
-_[Greek, Roman and Byzantine Studies](http://www.duke.edu/web/classics/grbs)_ 30 (1989), 269-96
+_Greek, Roman and Byzantine Studies_ 30 (1989), 269-96
 
 ### 'Teleology and myth in the _Phaedo'_
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 5 (1990), 359-83
@@ -153,7 +153,8 @@ _[Longer version: read online or download](https://cambridge.academia.edu/DavidS
 
 ### ‘The ethics of Brutus and Cassius’
 _Journal of Roman Studies_ 87 (1997), 41-53	
-also available [on line](http://uk.jstor.org/view/00754358/ap010093/01a00040/0?config=jstor&frame=noframe&userID=836f0866@cam.ac.uk/02cc99333c0050dc767f&dpi=3)
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘How Lucretius composed the _De rerum natura’_
 in K.A. Algra, M.H. Koenen, P.H. Schrijvers (eds.), _Lucretius and his Intellectual Background_ (Amsterdam 1997), 1-19
@@ -181,7 +182,7 @@ in M. Canto Sperber and P. Pellegrin (ed.), _Le Style de la pensée. Receuil d�
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Pythagoras the grammar teacher and Didymon the adulterer’
-in _Hyperboreus_ 4/1 (1998), 122-38; shorter version, entitled ‘Pythagoras the grammar teacher (PbrLibr Add MS 37516, 1)’, in _[Papiri filosofici: Miscellanea di studi II](http://www.colombaria.it/papiri.htm#STUDI%20E%20TESTI%20PER%20IL%20CORPUS%20DEI%20PAPIRI%20FILOSOFICI%20GRECI%20E%20LATINI)_ (Florence 1998), 167-81
+in _Hyperboreus_ 4/1 (1998), 122-38; shorter version, entitled ‘Pythagoras the grammar teacher (PbrLibr Add MS 37516, 1)’, in _Papiri filosofici: Miscellanea di studi II_ (Florence 1998), 167-81
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -189,7 +190,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in K. Ierodiakonou (ed.), 
 
 ΘΕΜΑΤΑ ΣΤΩΙΚΗΣ ΦΙΛΟΣΟΦΙΑΣ
-(special issue of _Deukalion_, 1997; in Greek translation), and in K. Ierodiakonou (ed.), _[Topics in Stoic Philosophy](http://www.oup-usa.org/isbn/019924880X.html)_ (Oxford 1999), 128-52
+(special issue of _Deukalion_, 1997; in Greek translation), and in K. Ierodiakonou (ed.), _Topics in Stoic Philosophy_ (Oxford 1999), 128-52
 
 ### ‘Lucretius’ use and avoidance of Greek’
 in J.N. Adams, R. Mayer (ed.), _Aspects of the Language of Latin Poetry_ (Proceedings of the British Academy, Oxford 1999), 227-46
@@ -201,7 +202,7 @@ in A. Alberti, R.W. Sharples (ed.), _Aspasius: the Earliest Extant Commentary on
 in A.A. Long (ed.), _The Cambridge Companion to Early Greek Philosophy_ (Cambridge 1999), 113-33
 
 ### ‘Hellenistic physics and metaphysics’
-in _>The Cambridge History of Hellenistic Philosophy_ (Cambridge 1999), 353-411
+in _The Cambridge History of Hellenistic Philosophy_ (Cambridge 1999), 353-411
 
 ### ‘_Metaphysics_ 
 
@@ -219,10 +220,10 @@ in _Storia della scienza_ I (Istituto dell’Enciclopedia Italiana, Rome 2001), 
 in D. Frede, A. Laks (ed.), _Traditions of Theology_ (Leiden 2002), 41-83
 
 ### ‘Diogenes of Oenoanda on Cyrenaic ethics’
-in _[Proceedings of the Cambridge Philological Society](http://www.classics.cam.ac.uk/pcps/pcpshome.html)_ 228 (2002), 159-74
+in _Proceedings of the Cambridge Philological Society_ 228 (2002), 159-74
 
 ### ‘The collapse of language? _Theaetetus_ 179c-183c’
-published on line in _[Plato](http://www.ex.ac.uk/plato)_ 3 (2002)
+published on line in _[Plato](http://www.ex.ac.uk/plato)_ 3 (2003)
 
 ### ‘The school: from Zeno to Arius Didymus’
 in B. Inwood (ed.), _[The Cambridge Companion to the Stoics](http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=0521779855)_ (Cambridge 2003), 7-34
@@ -236,19 +237,19 @@ in T. Scaltsas and A.S. Mason (eds.), _The Philosophy of Zeno. Zeno of Citium an
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Lucretius and the new Empedocles’
- published on line in _[Leeds International Classical Studies](http://www.leeds.ac.uk/classics/lics/volumes.html)_ 2 (2003)
+ published on line in _[Leeds International Classical Studies](http://arts.leeds.ac.uk/lics/2003/200304.pdf)_ 2 (2003)
 
 ### ‘A Socratic interpretation of Plato’s _Theaetetus’_
-_[Proceedings of the Boston Area Colloquium in Ancient Philosophy](http://www.bu.edu/philo/events/bacap/ancient01.html)_ 18 (2003), 277-313
+_Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 18 (2003), 277-313
 
 ### ‘Etymology as a _techne_ in Plato’s _Cratylus’_
 in C. Nifadopoulos (ed.), _ETYMOLOGIA: Studies in Ancient Etymology_ (Münster, 2003), 21-32; also ‘La tecnicità del metodo etimologico nel Cratilo’, in M. Migliori (ed.), _Il problema del metodo in Platone e Aristotele_(forthcoming)
 
 ### ‘The _nomothetes_ in Plato’s _Cratylus’_
-_[Studia Philonica Annual](http://www.nd.edu/~philojud/)_ 15 (2003), 5-16
+_Studia Philonica Annual_ 15 (2003), 5-16
 
 ### ‘Philodemus and the decentralisation of philosophy’
-_[Cronache Ercolanesi](http://www.cispegigante.it/frame.asp)_ 33 (2003), 31-41
+_Cronache Ercolanesi_ 33 (2003), 31-41
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -256,15 +257,15 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in F.A.J. de Haas, J. Mansfeld (eds.), _[Aristotle, On Generation and Corruption Book 1. Symposium Aristotelicum](http://www.oup.co.uk/isbn/0-19-924292-5)_ (Oxford 2004), 65-89
 
 ### ‘Stoic metaphysics at Rome’
-in R. Salles (ed.), _[Metaphysics, Soul and Ethics. Themes from the Work of Richard Sorabji](http://www.oup.com/us/catalog/general/subject/ClassicalStudies/AncientPhilosophy/~~/cHI9MTAmcGY9MCZzcz1wdWJkYXRlLmFzYyZzZj1jb21pbmdzb29uJnNkPWFzYyZ2aWV3PXVzYSZjaT0wMTk5MjYxMzBY)_ (Oxford 2005), 117-42
+in R. Salles (ed.), _Metaphysics, Soul and Ethics. Themes from the Work of Richard Sorabji_ (Oxford 2005), 117-42
 
 ### ‘Empedocles’ life cycles’
-in A. Pierris (ed.), _[The Empedoclean Cosmos: Structure, Process and the Question of Cyclicity. Proceedings of the Symposium Philosophiae Antiquae Tertium Myconense. 6-13 July 2003](http://www.oxbowbooks.com/bookinfo.cfm/ID/47724)_ (Patras 2005), 331-71
+in A. Pierris (ed.), _The Empedoclean Cosmos: Structure, Process and the Question of Cyclicity. Proceedings of the Symposium Philosophiae Antiquae Tertium Myconense. 6-13 July 2003_ (Patras 2005), 331-71
 
 
 
 ### ‘Les origines des preuves stoïciennes de l’existence de dieu’
-in _[Revue de métaphysique et de morale](http://www.ac-toulouse.fr/philosophie/revphi/rmm.htm)_ 4 (2005), 461-87 
+in _Revue de métaphysique et de morale_ 4 (2005), 461-87 
 
 ### ‘Verità futura e causalità nel _De fato_ di Cicerone’
 in C. Natali and S. Maso (ed.) _La catena delle cause. Determinismo e antideterminismo nel pensiero antico e in quello contemporaneo_ (Amsterdam 2005), 241-54
@@ -325,7 +326,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in C. Gallazzi, B. Kramer, S. Settis (eds.) _Intorno al Papiro di Artemidoro I. Contesto Culturale, Lingua e Stile. Atti del Convegno di Pisa del 15 novembre 2008_ (Milan 2009), 29-53
 
 ### ‘The _Theaetetus_ as an ethical dialogue’
-in A. Havlicek, F. Karfik and S. Spinka (eds.), _Plato’s Theaetetus. Proceedings of Sixth Symposium Platonicum Pragense_ (2009), 2-13 (revised version,  ‘Plato’s _Theaetetus_ as an ethical dialogue’ in A. Nightingale and D. Sedley (eds.), _Ancient Models of Mind. Studies in Human and Divine Rationality_), 2010
+in A. Havlicek, F. Karfik and S. Spinka (eds.), _Plato’s Theaetetus. Proceedings of Sixth Symposium Platonicum Pragense_ (2009), 2-13 (revised version,  ‘Plato’s _Theaetetus_ as an ethical dialogue’ in A. Nightingale and D. Sedley (eds.), _Ancient Models of Mind. Studies in Human and Divine Rationality_), 2010, 64-74
 
 ### ‘The status of physics in Lucretius, Philodemus and Cicero’
 in A. Antoni, D. Delattre (eds.), _Miscellanea Papyrologica Herculanensia volumen I_ (Pisa 2010), 63-8
