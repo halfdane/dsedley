@@ -204,10 +204,7 @@ in A.A. Long (ed.), _The Cambridge Companion to Early Greek Philosophy_ (Cambrid
 ### ‘Hellenistic physics and metaphysics’
 in _The Cambridge History of Hellenistic Philosophy_ (Cambridge 1999), 353-411
 
-### ‘_Metaphysics_ 
-
-Λ
-10’
+### ‘_Metaphysics_ Λ 10’
 in M. Frede, D. Charles (ed.), _Aristotle’s Metaphysics Book Lambda_ (Oxford 2000), 327-50
 
 ### ‘Socratic irony in the Platonist commentators’
