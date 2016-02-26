@@ -349,8 +349,6 @@ in D. Giovannozzi and M. Veneziani (eds.) _Materia_ (Florence 2011), 53-66
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
-### ‘Anon., _In Aristotelis Categorias’_
-edited in collaboration with N. Wilson, M. Rashed, N. Tchernetska and R.W. Sharples, in R. Netz et al. (eds.) _The Archimedes Palimpsest_ vol. 2 (Cambridge 2011), 311-39
 
 ### ‘PHibeh 184: Platonist logic in the third century BC?’
 in M.S. Funghi (ed.) _Studi e testi per il Corpus dei papiri filosofici_ (Florence 2011), 227-39
