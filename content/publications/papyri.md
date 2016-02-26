@@ -1,5 +1,5 @@
 ---
-title: "Editions of papyri"
+title: "Editions of fragmentary texts"
 menu:
   main:
     parent: 'Publications'
