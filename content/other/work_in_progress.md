@@ -8,10 +8,10 @@ menu:
 
 ## Articles and conference/seminar papers
 
-### ‘The final proof of immortality in Plato’s Phaedo’
+### ‘The final proof of immortality in Plato’s _Phaedo_’
 
 
-### ‘Socrates’ second voyage (Phaedo 99-101)’
+### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 Keeling Lecture, 2015
 
 ### ‘Zeno’s place paradox’
@@ -19,9 +19,10 @@ Keeling Lecture, 2015
 ### ‘Plato’s theory of Forms’
  Royal Institute of Philosophy lecture, December 2014; Assembly Series lecture, Washington University St Louis, March 2015.
  
-### ‘Recollection in Plato’s Timaeus’
+### ‘Recollection in Plato’s _Timaeus_’
 __________________
-## Books
+__________________
+## *Books*
 
 ### Ancient Greek theology
 based on 2014 lectures at Renmin University, Beijing, to be published initially in Chinese
