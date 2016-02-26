@@ -134,9 +134,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in G. Manetti (ed.), _Knowledge through Signs: Ancient Semiotic Theories and Practices_ (Brussels 1996), 87-108; revised version, ‘Aristote et la signification’, _Philosophie Antique_  4 (2004), 5-25
 
 ### ‘Plato’s _Phaedo_ in the third century BC’
-in M. Serena Funghi (ed.), 
-
-ΟΔΟΙ ΔΙΖΗΣΙΟΣ_: 
+in M. Serena Funghi (ed.), ΟΔΟΙ ΔΙΖΗΣΙΟΣ_: 
 Le vie della ricerca (Studi in onore di Francesco Adorno)_ (Florence 1996), 447-55
 
 ### ‘The inferential foundations of Epicurean ethics’
