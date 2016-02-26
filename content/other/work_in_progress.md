@@ -20,10 +20,10 @@ Keeling Lecture, 2015
  Royal Institute of Philosophy lecture, December 2014; Assembly Series lecture, Washington University St Louis, March 2015.
  
 ### ‘Recollection in Plato’s Timaeus’
-
+__________________
 ## Books
 
 ### Ancient Greek theology
 based on 2014 lectures at Renmin University, Beijing, to be published initially in Chinese
 
-### Plato’s Phaedo
+### Plato’s _Phaedo_
