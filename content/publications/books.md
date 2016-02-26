@@ -11,7 +11,7 @@ class: "books"
 ![](../bookcovers/LS.gif)
 (Cambridge 1987); vol. 1, xv + 512 pp.; vol. 2, xi + 512 pp. (German edition, tr. K. Hülser, Stuttgart 2000; French edition, tr. J. Brunschwig and P. Pellegrin,Paris, 2001); Hungarian edition, tr. L. Bene et al., 2015
 
-### _[Lucretius and the Transformation of Greek Wisdom](http://uk.cambridge.org/catalogue/catalogue.asp?isbn=0521570328)_
+### _Lucretius and the Transformation of Greek Wisdom_
 ![](../bookcovers/Lucr.jpg)
 (Cambridge 1998)
 [paperback edition](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521542146), September 2003
