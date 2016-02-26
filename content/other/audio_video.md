@@ -15,7 +15,7 @@ menu:
 
 ### Other:
 - [Socrates vs Darwin](http://www.christs.cam.ac.uk/college-life/charles-darwin), May 2009, Lady Margaret Lecture, Christ’s College
-- [Interview on Stoicism with Peter Adamson](http://www.historyofphilosophy.net/stoics-sedley), January 2012
+- [Podcast interview on Stoicism with Peter Adamson](http://www.historyofphilosophy.net/stoics-sedley), January 2012
 
 ## Video
 - [Ancient atheism, interview with Tim Whitmarsh](http://classicsconfidential.co.uk/2013/08/09/the-philosophy-of-ancient-atheism-with-david-sedley/), August 2013
