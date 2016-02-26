@@ -157,8 +157,6 @@ _[Longer version: read online or download](https://cambridge.academia.edu/DavidS
 ### ‘The ethics of Brutus and Cassius’
 _Journal of Roman Studies_ 87 (1997), 41-53	
 
-_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
-
 ### ‘How Lucretius composed the _De rerum natura’_
 in K.A. Algra, M.H. Koenen, P.H. Schrijvers (eds.), _Lucretius and his Intellectual Background_ (Amsterdam 1997), 1-19
 
@@ -219,6 +217,8 @@ in _Storia della scienza_ I (Istituto dell’Enciclopedia Italiana, Rome 2001), 
 ### ‘The origins of Stoic god’
 in D. Frede, A. Laks (ed.), _Traditions of Theology_ (Leiden 2002), 41-83
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Diogenes of Oenoanda on Cyrenaic ethics’
 in _Proceedings of the Cambridge Philological Society_ 228 (2002), 159-74
 
@@ -258,6 +258,8 @@ in F.A.J. de Haas, J. Mansfeld (eds.), _[Aristotle, On Generation and Corruption
 
 ### ‘Stoic metaphysics at Rome’
 in R. Salles (ed.), _Metaphysics, Soul and Ethics. Themes from the Work of Richard Sorabji_ (Oxford 2005), 117-42
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Empedocles’ life cycles’
 in A. Pierris (ed.), _The Empedoclean Cosmos: Structure, Process and the Question of Cyclicity. Proceedings of the Symposium Philosophiae Antiquae Tertium Myconense. 6-13 July 2003_ (Patras 2005), 331-71
@@ -374,6 +376,8 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Cicero and the _Timaeus’_
 in M. Schofield (ed.) _Aristotle, Plato and Pythagoreanism in the First Century BC_ (Cambridge 2013), 187-205
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### R. Chiaradonna, M. Rashed and D. Sedley, ‘A rediscovered _Categories_ commentary’
 _Oxford Studies in Ancient Philosophy_ 44 (2013), 129-94
