@@ -379,9 +379,6 @@ in M. Schofield (ed.) _Aristotle, Plato and Pythagoreanism in the First Century 
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
-### R. Chiaradonna, M. Rashed and D. Sedley, ‘A rediscovered _Categories_ commentary’
-_Oxford Studies in Ancient Philosophy_ 44 (2013), 129-94
-
 ### ‘La classification du _Théétète_ par Thrasylle’
 in D. El Murr (ed.), _La Mesure du savoir. Études sur le Théétète_ (Paris 2013), 295-307
 
