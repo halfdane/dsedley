@@ -237,7 +237,7 @@ in T. Scaltsas and A.S. Mason (eds.), _The Philosophy of Zeno. Zeno of Citium an
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Lucretius and the new Empedocles’
- published on line in _[Leeds International Classical Studies](http://arts.leeds.ac.uk/lics/2003/200304.pdf)_ 2 (2003)
+ published online in _[Leeds International Classical Studies](http://arts.leeds.ac.uk/lics/2003/200304.pdf)_ 2 (2003)
 
 ### ‘A Socratic interpretation of Plato’s _Theaetetus’_
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 18 (2003), 277-313
