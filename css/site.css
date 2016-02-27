@@ -1,0 +1,25 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+h3 {
+    padding-top: 2em;
+    padding-bottom: 0.1em;
+}
+
+.natural-size img {
+    width: auto;
+}
+
+.books img {
+    float: left;
+    width: 20%;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.books h3 {
+    clear: both;
+}

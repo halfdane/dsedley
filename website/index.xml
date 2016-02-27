@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on David Sedley</title>
+    <link>http://halfdane.github.io/dsedley/website/</link>
+    <description>Recent content in Websites on David Sedley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://halfdane.github.io/dsedley/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://halfdane.github.io/dsedley/website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://halfdane.github.io/dsedley/website/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;disclaimer:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Disclaimer&lt;/h2&gt;
+
+&lt;p&gt;This page belongs to David Sedley and all rights belong to him.&lt;/p&gt;
+
+&lt;h2 id=&#34;technical-stuff:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Technical Stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The site is built using the static site generator &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The theme is an adapted &lt;a href=&#34;https://github.com/key-amb/hugo-theme-bootie-docs&#34;&gt;Bootie Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The sources can be found on &lt;a href=&#34;github&#34;&gt;https://github.com/halfdane/dsedley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The build runs on &lt;a href=&#34;https://travis-ci.org/halfdane/dsedley&#34;&gt;travis-ci&lt;/a&gt;: &lt;span class=&#34;natural-size&#34;&gt;&lt;a href=&#34;https://travis-ci.org/halfdane/dsedley&#34;&gt;&lt;img src=&#34;https://travis-ci.org/halfdane/dsedley.png&#34; alt=&#34;Build Status&#34; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://halfdane.github.io/&#34;&gt;halfdane&lt;/a&gt; is handling the page&amp;rsquo;s technical details and administration. Contact: halfdane@gmx.net&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting</title>
+      <link>http://halfdane.github.io/dsedley/website/starting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://halfdane.github.io/dsedley/website/starting/</guid>
+      <description>
+
+&lt;p&gt;The easiest way to change to content of this site might be to edit it online.&lt;/p&gt;
+
+&lt;p&gt;Fortunately the source code is hosted at GitHub which supports this kind of collaboration.&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation:aec1130bfedfa5bb1c50fb0b945f2d06&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://github.com&#34;&gt;https://github.com&lt;/a&gt; and create an account (or let me know if I should do that for you)&lt;/li&gt;
+&lt;li&gt;Check your incoming email to verify your GitHub account&lt;/li&gt;
+&lt;li&gt;Tell me your username so I can add you as a collaborator to the playground-project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;first-steps-to-changing-content:aec1130bfedfa5bb1c50fb0b945f2d06&#34;&gt;First steps to changing content&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://github.com/halfdane/dsedley/blob/master/content/frontpage.md&#34;&gt;https://github.com/halfdane/dsedley/blob/master/content/frontpage.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Click the edit-button: &lt;img src=&#34;https://help.github.com/assets/images/help/repository/edit-file-edit-button.png&#34; alt=&#34;edit file button&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Change something in the page (but please don&amp;rsquo;t touch the stuff at the top between the &amp;mdash; )&lt;/li&gt;
+&lt;li&gt;Click the green &amp;ldquo;Commit changes&amp;rdquo; button - you can add a commit message in the fields above, but that&amp;rsquo;s not necessary&lt;/li&gt;
+&lt;li&gt;Wait a minute or two while your changes are used to generate the HTML&lt;/li&gt;
+&lt;li&gt;Check &lt;a href=&#34;http://halfdane.github.io/dsedley/&#34;&gt;http://halfdane.github.io/dsedley/&lt;/a&gt; for your changes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The official documentation to editing content online is here: &lt;a href=&#34;https://help.github.com/articles/editing-files-in-your-repository/&#34;&gt;https://help.github.com/articles/editing-files-in-your-repository/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;further-exploration:aec1130bfedfa5bb1c50fb0b945f2d06&#34;&gt;Further exploration&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All content of the playground is under &lt;a href=&#34;https://github.com/halfdane/dsedley/tree/master/content&#34;&gt;https://github.com/halfdane/dsedley/tree/master/content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I organized the files like they are in the menu on &lt;a href=&#34;http://halfdane.github.io/dsedley&#34;&gt;http://halfdane.github.io/dsedley&lt;/a&gt; and the files and directories resemble loosely the entries in the menu.
+So to adjust the higher education of your curriculum, which is in the menu in &amp;ldquo;Curriculum Vitae&amp;rdquo;-&amp;gt;&amp;ldquo;Higher Education&amp;rdquo;, open the &lt;code&gt;curriculum&lt;/code&gt; directory, click the file &lt;code&gt;education.md&lt;/code&gt; and make the changes as described above.&lt;/li&gt;
+&lt;li&gt;Have a look around in the files and directories and make some changes. This is a playground, so you can&amp;rsquo;t break anything valuable.&lt;/li&gt;
+&lt;li&gt;Honestly, you virtually can&amp;rsquo;t break anything for long, since all changes are recorded by GitHub: it is always possible to go back to an older (working) version. It helps to have meaningful commit messages, but it is possible without.&lt;/li&gt;
+&lt;li&gt;All &lt;code&gt;.md&lt;/code&gt;-files are interpreted as Markdown which is then translated to HTML. To find out what you can do in Markdown, have a look at &lt;a href=&#34;https://daringfireball.net/projects/markdown/basics&#34;&gt;https://daringfireball.net/projects/markdown/basics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>http://halfdane.github.io/dsedley/website/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://halfdane.github.io/dsedley/website/markdown/</guid>
+      <description>
+
+&lt;h1 id=&#34;h1-heading:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;h1 Heading&lt;/h1&gt;
+
+&lt;h2 id=&#34;h2-heading:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;h2 Heading&lt;/h2&gt;
+
+&lt;h3 id=&#34;h3-heading:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;h3 Heading&lt;/h3&gt;
+
+&lt;h4 id=&#34;h4-heading:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;h4 Heading&lt;/h4&gt;
+
+&lt;h5 id=&#34;h5-heading:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;h5 Heading&lt;/h5&gt;
+
+&lt;h6 id=&#34;h6-heading:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;h6 Heading&lt;/h6&gt;
+
+&lt;h2 id=&#34;horizontal-rules:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Horizontal Rules&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;typographic-replacements:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Typographic replacements&lt;/h2&gt;
+
+&lt;p&gt;&amp;copy; &amp;copy; &amp;reg; &amp;reg; &amp;trade; &amp;trade; (p) (P) +-&lt;/p&gt;
+
+&lt;p&gt;ellipsis&amp;hellip;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;emphasis:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Emphasis&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;blockquotes:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes can also be nested&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;by using additional greater-than signs right next to each other&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;or with spaces between arrows.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;lists:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;Unordered&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create a list by starting a line with &lt;code&gt;+&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt;, or &lt;code&gt;*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Sub-lists are made by indenting 2 spaces:
+
+&lt;ul&gt;
+&lt;li&gt;Marker character change forces new list start:&lt;/li&gt;
+&lt;li&gt;Ac tristique libero volutpat at&lt;/li&gt;
+&lt;li&gt;Facilisis in pretium nisl aliquet&lt;/li&gt;
+&lt;li&gt;Nulla volutpat aliquam velit&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Very easy!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ordered&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Integer molestie lorem at massa&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You can use sequential numbers&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;hellip;or keep all the numbers as &lt;code&gt;1.&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Start numbering with offset:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;foo&lt;/li&gt;
+&lt;li&gt;bar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;code:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Indented code&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// Some comments
+line 1 of code
+line 2 of code
+line 3 of code
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Block code &amp;ldquo;fences&amp;rdquo;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Sample text here...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Syntax highlighting&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;links:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dev.nodeca.com&#34;&gt;link text&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nodeca.github.io/pica/demo/&#34; title=&#34;hover over link without clicking!&#34;&gt;link with title&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Autoconverted link &lt;a href=&#34;https://github.com/nodeca/pica&#34;&gt;https://github.com/nodeca/pica&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;images:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://octodex.github.com/images/minion.png&#34; alt=&#34;Minion&#34; /&gt;
+&lt;img src=&#34;https://octodex.github.com/images/stormtroopocat.jpg&#34; alt=&#34;Stormtroopocat&#34; title=&#34;The Stormtroopocat&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like links, Images also have a footnote style syntax&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://octodex.github.com/images/dojocat.jpg&#34; alt=&#34;Alt text&#34; title=&#34;The Dojocat&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With a reference later in the document defining the URL location:&lt;/p&gt;
+
+&lt;h3 id=&#34;footnotes-https-github-com-markdown-it-markdown-it-footnote:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;&lt;a href=&#34;https://github.com/markdown-it/markdown-it-footnote&#34;&gt;Footnotes&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Footnote 1 link&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:d59f7b4dfecd890f0583fb0bac5a436e:first&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:d59f7b4dfecd890f0583fb0bac5a436e:first&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Footnote 2 link&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Inline footnote&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:d59f7b4dfecd890f0583fb0bac5a436e:Text-of-inline-f&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:d59f7b4dfecd890f0583fb0bac5a436e:Text-of-inline-f&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; definition.&lt;/p&gt;
+
+&lt;p&gt;Duplicated footnote reference&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;definition-lists-https-github-com-markdown-it-markdown-it-deflist:d59f7b4dfecd890f0583fb0bac5a436e&#34;&gt;&lt;a href=&#34;https://github.com/markdown-it/markdown-it-deflist&#34;&gt;Definition lists&lt;/a&gt;&lt;/h3&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Term 1&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Definition 1&lt;/p&gt;
+
+&lt;p&gt;with lazy continuation.&lt;/p&gt;&lt;/dd&gt;
+&lt;dt&gt;Term 2 with &lt;em&gt;inline markup&lt;/em&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Definition 2&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{ some code, part of Definition 2 }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Third paragraph of definition 2.&lt;/p&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:d59f7b4dfecd890f0583fb0bac5a436e:first&#34;&gt;&lt;p&gt;Footnote &lt;strong&gt;can have markup&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;and multiple paragraphs.&lt;/p&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:d59f7b4dfecd890f0583fb0bac5a436e:first&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;Footnote text.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:d59f7b4dfecd890f0583fb0bac5a436e:Text-of-inline-f&#34;&gt;Text of inline footnote &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:d59f7b4dfecd890f0583fb0bac5a436e:Text-of-inline-f&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;Footnote text.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:d59f7b4dfecd890f0583fb0bac5a436e:second&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Symbols</title>
+      <link>http://halfdane.github.io/dsedley/website/symbols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://halfdane.github.io/dsedley/website/symbols/</guid>
+      <description>&lt;p&gt;All these symbols can be input directly without reverting to awkward HTML-Entities like &lt;code&gt;&amp;amp;Theta;&lt;/code&gt;: &lt;code&gt;Θ&lt;/code&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Letter&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Α α&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;alpha, άλφα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Β β&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;beta, βήτα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Γ γ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;gamma, γάμμα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Δ δ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;delta, δέλτα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ε ε&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;epsilon, έψιλον&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ζ ζ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;zeta, ζήτα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Η η&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;eta, ήτα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Θ θ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;theta, θήτα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ι ι&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;iota, ιώτα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Κ κ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;kappa, κάππα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Λ λ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;lambda, λάμδα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Μ μ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;mu, μυ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ν ν&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;nu, νυ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ξ ξ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;xi, ξι&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ο ο&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;omicron, όμικρον&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Π π&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;pi, πι&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ρ ρ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;rho, ρώ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Σ σ/ς&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;sigma, σίγμα&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Τ τ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;tau, ταυ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Υ υ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;upsilon, ύψιλον&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Φ φ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;phi, φι&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Χ χ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;chi, χι&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ψ ψ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;psi, ψι&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Ω ω&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;omega, ωμέγα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
